@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102123Z" creationid="Christelle" creationdate="20230517T102123Z">
+        <seg>&amp;Steudañ ar restroù...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095421Z" creationid="Christelle" creationdate="20230517T095353Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102030Z" creationid="Christelle" creationdate="20230517T102030Z">
+        <seg>&amp;Stadegoù kenglotañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145745Z" creationid="Christelle" creationdate="20230511T145745Z">
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145813Z" creationid="Christelle" creationdate="20230511T145813Z">
         <seg>&amp;Digeriñ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102151Z" creationid="Christelle" creationdate="20230517T102151Z">
+        <seg>&amp;Dibarzhioù</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102021Z" creationid="Christelle" creationdate="20230517T102021Z">
+        <seg>&amp;Stadegoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151242Z" creationid="Christelle" creationdate="20230511T151242Z">
@@ -386,6 +418,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T093649Z" creationid="Christelle" creationdate="20230517T093649Z">
         <seg>&amp;Kentañ lizherenn ar gerioù brasaet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101905Z" creationid="Christelle" creationdate="20230517T101905Z">
+        <seg>&amp;Binviji</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +578,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151547Z" creationid="Christelle" creationdate="20230511T151547Z">
         <seg>R&amp;estr pal a-vremañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101958Z" creationid="Christelle" creationdate="20230517T101958Z">
+        <seg>Diskouez ar &amp;fazioù...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102017Z" creationid="Christelle" creationdate="20230517T102017Z">
+        <seg>Diskouez fazioù ar &amp;restr a-vremañ</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102049Z" creationid="Christelle" creationdate="20230517T102049Z">
+        <seg>Stadegoù kenglotañ dre &amp;restr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment from tm/enforce/</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095840Z" creationid="Christelle" creationdate="20230517T095840Z">
@@ -1066,6 +1130,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T093328Z" creationid="Christelle" creationdate="20230517T093328Z">
         <seg>K&amp;emmañ an direnneg evit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102139Z" creationid="Christelle" creationdate="20230517T102139Z">
+        <seg>Sk&amp;riptoù...</seg>
       </tuv>
     </tu>
     <tu>
