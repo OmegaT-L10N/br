@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>&amp;Next Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T095700Z" creationid="Christelle" creationdate="20230517T095700Z">
-        <seg>&amp;Rann da-heul deus tm/auto/</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095801Z" creationid="Christelle" creationdate="20230517T095700Z">
+        <seg>&amp;Rann da-heul o tont eus tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="en">
         <seg>&amp;Previous Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T095743Z" creationid="Christelle" creationdate="20230517T095743Z">
-        <seg>&amp;Rann a-raok e-barzh tm/auto/</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095845Z" creationid="Christelle" creationdate="20230517T095743Z">
+        <seg>R&amp;ann a-raok o tont eus tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +394,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151839Z" creationid="Christelle" creationdate="20230511T151839Z">
         <seg>&amp;Nullañ an ober diwezhañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100020Z" creationid="Christelle" creationdate="20230517T100020Z">
+        <seg>&amp;Gwelout</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095943Z" creationid="Christelle" creationdate="20230517T095943Z">
+        <seg>Embanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142913Z" creationid="Christelle" creationdate="20230511T142913Z">
@@ -694,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095840Z" creationid="Christelle" creationdate="20230517T095840Z">
+        <seg>Ra&amp;nn da-heul o tont eus tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095038Z" creationid="Christelle" creationdate="20230517T095038Z">
@@ -722,6 +746,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095225Z" creationid="Christelle" creationdate="20230517T095225Z">
         <seg>Rann &amp;dibar da-heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095940Z" creationid="Christelle" creationdate="20230517T095940Z">
+        <seg>Bloc'h-notennañ</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +794,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150956Z" creationid="Christelle" creationdate="20230511T150941Z">
         <seg>Digeriñ ur raktres MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095909Z" creationid="Christelle" creationdate="20230517T095909Z">
+        <seg>Rann a-ra&amp;ok o tont eus tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
