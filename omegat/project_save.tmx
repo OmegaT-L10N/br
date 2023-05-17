@@ -286,6 +286,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T093649Z" creationid="Christelle" creationdate="20230517T093649Z">
+        <seg>&amp;Kentañ lizherenn ar gerioù brasaet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T093356Z" creationid="Christelle" creationdate="20230517T093356Z">
+        <seg>&amp;LIZHERENNOÙ BRAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091317Z" creationid="Christelle" creationdate="20230517T091317Z">
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151647Z" creationid="Christelle" creationdate="20230511T151647Z">
         <seg>&amp;Geriaoueg da skrivañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T093348Z" creationid="Christelle" creationdate="20230517T093348Z">
+        <seg>&amp;lizherennoù bihan</seg>
       </tuv>
     </tu>
     <tu>
