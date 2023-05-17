@@ -510,6 +510,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T092251Z" creationid="Christelle" creationdate="20230517T092251Z">
+        <seg>Enlakaat ar balizennoù &amp;orin a ra diouer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T092715Z" creationid="Christelle" creationdate="20230517T092715Z">
+        <seg>Enlakaat ar valizenn o&amp;rin da heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="br" changeid="userone" changedate="20230510T102856Z" creationid="userone" creationdate="20230510T102856Z">
