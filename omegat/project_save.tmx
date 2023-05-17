@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101355Z" creationid="Christelle" creationdate="20230517T101355Z">
+        <seg>Merkañ kudennoù ar &amp;reizhaouer yezhel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Gl&amp;ossary Matches</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T101257Z" creationid="Christelle" creationdate="20230517T101257Z">
@@ -1190,6 +1198,14 @@ The current setting is {0}MB;</seg>
         <seg>Implijit "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" e-barzh al linenn urzhiañ 
 pe e-barzh skript loc'hañ OmegaT;
 An arventenn e talvoud eo {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101656Z" creationid="Christelle" creationdate="20230517T101656Z">
+        <seg>Implijout ur &amp;font sikour tagus</seg>
       </tuv>
     </tu>
     <tu>
