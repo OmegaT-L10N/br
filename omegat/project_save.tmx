@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T095353Z" creationid="Christelle" creationdate="20230517T095353Z">
-        <seg>&amp;Rann diwezhañ er roll istor</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095421Z" creationid="Christelle" creationdate="20230517T095353Z">
+        <seg>Rann &amp;diwezhañ er roll istor</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095700Z" creationid="Christelle" creationdate="20230517T095700Z">
+        <seg>&amp;Rann da-heul deus tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145813Z" creationid="Christelle" creationdate="20230511T145813Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095128Z" creationid="Christelle" creationdate="20230517T095128Z">
         <seg>Ar rann a-&amp;raok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095743Z" creationid="Christelle" creationdate="20230517T095743Z">
+        <seg>&amp;Rann a-raok e-barzh tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +498,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150329Z" creationid="Christelle" creationdate="20230511T150329Z">
         <seg>Ouzhpennañ ur bajenn MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095607Z" creationid="Christelle" creationdate="20230517T095607Z">
+        <seg>Rannoù leuniet en un doare &amp;emgefreek</seg>
       </tuv>
     </tu>
     <tu>
