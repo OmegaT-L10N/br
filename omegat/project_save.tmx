@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T092102Z" creationid="Christelle" creationdate="20230517T092102Z">
+        <seg>E&amp;zporzhiañ an diuzad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142913Z" creationid="Christelle" creationdate="20230511T142913Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150642Z" creationid="Christelle" creationdate="20230511T150520Z">
         <seg>C'hwitadenn war pellgargañ ar bajenn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T091905Z" creationid="Christelle" creationdate="20230517T091905Z">
+        <seg>E&amp;nlakaat an destenn orin</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +598,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T091937Z" creationid="Christelle" creationdate="20230517T091937Z">
+        <seg>E&amp;rlec'hiañ gant an destenn orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T091847Z" creationid="Christelle" creationdate="20230517T091847Z">
+        <seg>Erlec'hiañ gant &amp;Treiñ emgefreek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142805Z" creationid="Christelle" creationdate="20230511T142805Z">
@@ -602,6 +634,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T144221Z" creationid="Christelle" creationdate="20230511T144221Z">
         <seg>Loc'hañ en Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T091951Z" creationid="Christelle" creationdate="20230517T091951Z">
+        <seg>Di&amp;uzañ an destenn orin</seg>
       </tuv>
     </tu>
     <tu>
