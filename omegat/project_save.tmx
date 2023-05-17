@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T093806Z" creationid="Christelle" creationdate="20230517T093806Z">
+        <seg>&amp;Furchal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151150Z" creationid="Christelle" creationdate="20230511T151150Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092900Z" creationid="Christelle" creationdate="20230517T092900Z">
         <seg>&amp;Klask...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T093738Z" creationid="Christelle" creationdate="20230517T093738Z">
+        <seg>&amp;Frazenn</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +762,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T141815Z" creationid="Christelle" creationdate="20230511T141815Z">
         <seg>Diuzañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T093849Z" creationid="Christelle" creationdate="20230517T093849Z">
+        <seg>Dibab ur genglotade&amp;nn</seg>
       </tuv>
     </tu>
     <tu>
