@@ -598,6 +598,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100933Z" creationid="Christelle" creationdate="20230517T100933Z">
+        <seg>Merkañ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100840Z" creationid="Christelle" creationdate="20230517T100840Z">
+        <seg>Merkañ an &amp;esaouennoù didroc'hadus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100558Z" creationid="Christelle" creationdate="20230517T100558Z">
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100749Z" creationid="Christelle" creationdate="20230517T100749Z">
         <seg>Merkañ ar rannoù a vez &amp;adkavet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100804Z" creationid="Christelle" creationdate="20230517T100804Z">
+        <seg>Merkañ ar rannoù gant &amp;notennoù</seg>
       </tuv>
     </tu>
     <tu>
