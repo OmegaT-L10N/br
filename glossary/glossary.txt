@@ -1,0 +1,6 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Match	Kenglotadenn
+Insert	Enlakaat
+Machine Translation	Treiñ emgefreek
+Export	Ezporzhiañ
+View	Diskwel
