@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101741Z" creationid="Christelle" creationdate="20230517T101741Z">
+        <seg>&amp;Netra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145813Z" creationid="Christelle" creationdate="20230511T145813Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151704Z" creationid="Christelle" creationdate="20230511T151704Z">
         <seg>&amp;Loc'hañ en-dro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101901Z" creationid="Christelle" creationdate="20230517T101901Z">
+        <seg>&amp;Adlakaat prenestr OmegaT a-orin</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +626,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T101110Z" creationid="Christelle" creationdate="20230517T101110Z">
         <seg>Merkañ an arouezennoù kontrolliñ &amp;daouduek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101731Z" creationid="Christelle" creationdate="20230517T101731Z">
+        <seg>Merkañ titouroù ar c'hemmañ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1254,22 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T144518Z" creationid="Christelle" creationdate="20230511T144518Z">
         <seg>Ne seblant ket bezañ restroù mat da dreiñ en ho raktres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101807Z" creationid="Christelle" creationdate="20230517T101807Z">
+        <seg>Diskouez evit an &amp;holl rannoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101759Z" creationid="Christelle" creationdate="20230517T101759Z">
+        <seg>Diskouez evit a rann &amp;a-vremañ</seg>
       </tuv>
     </tu>
     <tu>
