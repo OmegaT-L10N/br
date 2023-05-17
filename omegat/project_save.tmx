@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102351Z" creationid="Christelle" creationdate="20230517T102351Z">
+        <seg>&amp;Leuniañ emgefreek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095421Z" creationid="Christelle" creationdate="20230517T095353Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102201Z" creationid="Christelle" creationdate="20230517T102201Z">
+        <seg>&amp;Treiñ emgefreek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T102030Z" creationid="Christelle" creationdate="20230517T102030Z">
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T102151Z" creationid="Christelle" creationdate="20230517T102151Z">
         <seg>&amp;Dibarzhioù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102156Z" creationid="Christelle" creationdate="20230517T102156Z">
+        <seg>&amp;Dibaboù gwellañ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +402,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T093738Z" creationid="Christelle" creationdate="20230517T093738Z">
         <seg>&amp;Frazenn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102449Z" creationid="Christelle" creationdate="20230517T102438Z">
+        <seg>&amp;Diskouez emgefreek ar c'hinnigoù dedennus</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1326,14 @@ The current setting is {0}MB;</seg>
         <seg>Implijit "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" e-barzh al linenn urzhiañ 
 pe e-barzh skript loc'hañ OmegaT;
 An arventenn e talvoud eo {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T102336Z" creationid="Christelle" creationdate="20230517T102336Z">
+        <seg>Implijout ar c'henglotañ &amp;a-dammoù</seg>
       </tuv>
     </tu>
     <tu>
