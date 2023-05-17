@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T094742Z" creationid="Christelle" creationdate="20230517T094742Z">
+        <seg>Krouiñ un e&amp;il troidigezh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150931Z" creationid="Christelle" creationdate="20230511T150931Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T094815Z" creationid="Christelle" creationdate="20230517T094815Z">
+        <seg>Dilem&amp;el an droidigezh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091847Z" creationid="Christelle" creationdate="20230517T091847Z">
@@ -730,6 +746,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142805Z" creationid="Christelle" creationdate="20230511T142805Z">
         <seg>Assevel an talvoudoù dre zi&amp;ouer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T094554Z" creationid="Christelle" creationdate="20230517T094554Z">
+        <seg>Enlakaat a-zehoù-da-gleiz (RLE U+202&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,6 +926,14 @@ The current setting is {0}MB;</seg>
         <seg>Implijit "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" e-barzh al linenn urzhiañ 
 pe e-barzh skript loc'hañ OmegaT;
 An arventenn e talvoud eo {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T094707Z" creationid="Christelle" creationdate="20230517T094707Z">
+        <seg>Implijout un droidige&amp;zh dre ziouer</seg>
       </tuv>
     </tu>
     <tu>
