@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095353Z" creationid="Christelle" creationdate="20230517T095353Z">
+        <seg>&amp;Rann diwezhañ er roll istor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T140843Z" creationid="Christelle" creationdate="20230511T140843Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142238Z" creationid="Christelle" creationdate="20230511T142238Z">
         <seg>&amp;Echuiñ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095415Z" creationid="Christelle" creationdate="20230517T095415Z">
+        <seg>Rann da-&amp;heul er roll istor</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +306,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092900Z" creationid="Christelle" creationdate="20230517T092900Z">
         <seg>&amp;Klask...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095218Z" creationid="Christelle" creationdate="20230517T095218Z">
+        <seg>&amp;Rann niverenn...</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +686,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095139Z" creationid="Christelle" creationdate="20230517T095139Z">
+        <seg>&amp;Notenn da-heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095225Z" creationid="Christelle" creationdate="20230517T095225Z">
+        <seg>Rann &amp;dibar da-heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="br" changeid="userone" changedate="20230510T102856Z" creationid="userone" creationdate="20230510T102856Z">
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T143503Z" creationid="Christelle" creationdate="20230511T143433Z">
         <seg>Diskoulmoù a c'hallfe bezañ :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095149Z" creationid="Christelle" creationdate="20230517T095149Z">
+        <seg>Notenn a-&amp;raok</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +994,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151103Z" creationid="Christelle" creationdate="20230511T151103Z">
         <seg>Restroù o&amp;rin...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095252Z" creationid="Christelle" creationdate="20230517T095252Z">
+        <seg>Testenn orin ar &amp;genglotadenn ziuzet</seg>
       </tuv>
     </tu>
     <tu>
