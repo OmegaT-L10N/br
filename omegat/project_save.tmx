@@ -600,16 +600,24 @@
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T100933Z" creationid="Christelle" creationdate="20230517T100933Z">
-        <seg>Merkañ </seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100948Z" creationid="Christelle" creationdate="20230517T100933Z">
+        <seg>Merkañ an &amp;esaouennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101110Z" creationid="Christelle" creationdate="20230517T101110Z">
+        <seg>Merkañ an arouezennoù kontrolliñ &amp;daouduek</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T100840Z" creationid="Christelle" creationdate="20230517T100840Z">
-        <seg>Merkañ an &amp;esaouennoù didroc'hadus</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100953Z" creationid="Christelle" creationdate="20230517T100840Z">
+        <seg>Merkañ an esaouennoù &amp;didroc'hadus</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101215Z" creationid="Christelle" creationdate="20230517T101215Z">
+        <seg>Merkañ ar rannoù troet en un doare &amp;emgefreek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100447Z" creationid="Christelle" creationdate="20230517T100157Z">
@@ -728,8 +744,8 @@
       <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T094217Z" creationid="Christelle" creationdate="20230517T094217Z">
-        <seg>Enlakaat un a&amp;rouezenn gontrolliñ Unicode</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101122Z" creationid="Christelle" creationdate="20230517T094217Z">
+        <seg>Enlakaat un a&amp;rouezenn gontrolliñ daouduek</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +786,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094401Z" creationid="Christelle" creationdate="20230517T094401Z">
         <seg>Merk a-gleiz-da-zehoù (LRM U+200&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T101257Z" creationid="Christelle" creationdate="20230517T101257Z">
+        <seg>Merkañ kenglotadurioù ar c'heriaoueg</seg>
       </tuv>
     </tu>
     <tu>
