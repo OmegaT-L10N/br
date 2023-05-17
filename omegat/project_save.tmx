@@ -400,8 +400,8 @@
       <tuv lang="en">
         <seg>&amp;View</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T100020Z" creationid="Christelle" creationdate="20230517T100020Z">
-        <seg>&amp;Gwelout</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100110Z" creationid="Christelle" creationdate="20230517T100020Z">
+        <seg>&amp;Diskwel</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +642,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150642Z" creationid="Christelle" creationdate="20230511T150520Z">
         <seg>C'hwitadenn war pellgargañ ar bajenn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100157Z" creationid="Christelle" creationdate="20230517T100157Z">
+        <seg>&amp;Usskediñ ar rannoù troet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T100418Z" creationid="Christelle" creationdate="20230517T100418Z">
+        <seg>U&amp;sskediñ ar rannoù didroet</seg>
       </tuv>
     </tu>
     <tu>
