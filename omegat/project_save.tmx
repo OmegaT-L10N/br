@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T091809Z" creationid="Christelle" creationdate="20230517T091809Z">
+        <seg>&amp;Enlakaat ar Genglotadenn pe an Diuzad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145745Z" creationid="Christelle" creationdate="20230511T145745Z">
