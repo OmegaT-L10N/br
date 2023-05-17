@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T094904Z" creationid="Christelle" creationdate="20230517T094904Z">
+        <seg>&amp;Mont da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142843Z" creationid="Christelle" creationdate="20230511T142843Z">
@@ -158,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095108Z" creationid="Christelle" creationdate="20230517T095047Z">
+        <seg>&amp;Ar rann da-heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145813Z" creationid="Christelle" creationdate="20230511T145813Z">
         <seg>&amp;Digeriñ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095128Z" creationid="Christelle" creationdate="20230517T095128Z">
+        <seg>Ar rann a-&amp;raok</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +646,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095038Z" creationid="Christelle" creationdate="20230517T095038Z">
+        <seg>Ar rann &amp;troet da-heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T095025Z" creationid="Christelle" creationdate="20230517T095025Z">
+        <seg>Ar rann &amp;didroet da-heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="br" changeid="userone" changedate="20230510T102856Z" creationid="userone" creationdate="20230510T102856Z">
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091937Z" creationid="Christelle" creationdate="20230517T091937Z">
         <seg>E&amp;rlec'hiañ gant an destenn orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T094901Z" creationid="Christelle" creationdate="20230517T094901Z">
+        <seg>Enrollañ un droidigezh heñvel ouzh an destenn orin</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +930,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094004Z" creationid="Christelle" creationdate="20230517T094004Z">
         <seg>Dibab ar genglotadenn #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230517T094839Z" creationid="Christelle" creationdate="20230517T094839Z">
+        <seg>Enrollañ un droidigezh goullo</seg>
       </tuv>
     </tu>
     <tu>
