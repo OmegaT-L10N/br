@@ -7,3 +7,5 @@ View	Diskwel
 Check Issues	Diskouez ar c'hudennoù
 Segment	Rann
 Target File	Restr pal
+Local File Filters	Siloù ar restroù lec'hel
+Global File Filters	Siloù ar restroù hollek
