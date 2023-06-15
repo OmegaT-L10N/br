@@ -718,6 +718,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153428Z" creationid="Christelle" creationdate="20230615T153428Z">
+        <seg>Ne c'haller ket mont e-barzh teuliad ar c'heriaoueg!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153517Z" creationid="Christelle" creationdate="20230615T153517Z">
+        <seg>Ne c'haller ket krouiñ an teuliad evit ar restroù troet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T101958Z" creationid="Christelle" creationdate="20230517T101958Z">
@@ -1554,6 +1570,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082941Z" creationid="Christelle" creationdate="20230609T082941Z">
         <seg>Digeriñ {0} restr pal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153608Z" creationid="Christelle" creationdate="20230615T153608Z">
+        <seg>Rannoù emzivad</seg>
       </tuv>
     </tu>
     <tu>
