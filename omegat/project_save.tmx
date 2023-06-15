@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T150939Z" creationid="Christelle" creationdate="20230615T150939Z">
+        <seg>Abalamour d'ur gudenn evit tizhout ar restr n'en deus ket gellet ar raktres bezañ karget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the specified project!</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T145809Z" creationid="Christelle" creationdate="20230615T145809Z">
