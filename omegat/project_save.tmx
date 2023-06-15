@@ -838,6 +838,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152515Z" creationid="Christelle" creationdate="20230615T152515Z">
+        <seg>Arlun prennet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152524Z" creationid="Christelle" creationdate="20230615T152524Z">
+        <seg>Arlun dibrennet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100948Z" creationid="Christelle" creationdate="20230517T100933Z">
