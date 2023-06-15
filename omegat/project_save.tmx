@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T145214Z" creationid="Christelle" creationdate="20230615T145214Z">
+        <seg>&amp;Enaouiñ an emglokaat istorel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exported TMs</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151517Z" creationid="Christelle" creationdate="20230511T151517Z">
@@ -890,6 +898,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095943Z" creationid="Christelle" creationdate="20230517T095943Z">
         <seg>Embanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T145228Z" creationid="Christelle" creationdate="20230615T145228Z">
+        <seg>Enaouiñ ar rakskrivañ &amp;istorel</seg>
       </tuv>
     </tu>
     <tu>
