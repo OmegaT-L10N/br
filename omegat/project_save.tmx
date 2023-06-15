@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153256Z" creationid="Christelle" creationdate="20230615T153256Z">
+        <seg>Ne c'haller ket krouiñ kavlec'h ar raktres e {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092858Z" creationid="Christelle" creationdate="20230517T092858Z">
