@@ -11,3 +11,4 @@ Local File Filters	Siloù ar restroù lec'hel
 Global File Filters	Siloù ar restroù hollek
 History Completion	Emglokaat istorel
 History Prediction	Rakskrivañ istorel
+Log	Renabl	Journal, stlenneg
