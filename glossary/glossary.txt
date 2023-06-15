@@ -4,3 +4,6 @@ Insert	Enlakaat
 Machine Translation	Treiñ emgefreek
 Export	Ezporzhiañ
 View	Diskwel
+Check Issues	Diskouez ar c'hudennoù
+Segment	Rann
+Target File	Restr pal
