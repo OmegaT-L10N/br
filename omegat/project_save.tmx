@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152325Z" creationid="Christelle" creationdate="20230615T152325Z">
+        <seg>Gwiriekait hag eñ eo bet graet espres-kaer pe get.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082757Z" creationid="Christelle" creationdate="20230609T082757Z">
@@ -1570,6 +1578,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094815Z" creationid="Christelle" creationdate="20230517T094815Z">
         <seg>Dilem&amp;el an droidigezh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152434Z" creationid="Christelle" creationdate="20230615T152434Z">
+        <seg>Rannoù eilskrivet : {0}</seg>
       </tuv>
     </tu>
     <tu>
