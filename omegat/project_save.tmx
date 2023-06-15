@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T145423Z" creationid="Christelle" creationdate="20230615T145423Z">
+        <seg>Memor treiñ {0} ar raktres n'en deus ket gellet bezañ karget!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082647Z" creationid="Christelle" creationdate="20230609T082647Z">
@@ -1690,6 +1698,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082555Z" creationid="Christelle" creationdate="20230609T082555Z">
         <seg>Ment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T145555Z" creationid="Christelle" creationdate="20230615T145555Z">
+        <seg>N'eo ket bet kemeret e kont ar restr orin {0} peogwir n'en deus ket gellet bezañ karget.</seg>
       </tuv>
     </tu>
     <tu>
