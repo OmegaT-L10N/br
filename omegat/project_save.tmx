@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T144714Z" creationid="Christelle" creationdate="20230615T144714Z">
+        <seg>Klokaat &amp;istorel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091905Z" creationid="Christelle" creationdate="20230517T091905Z">
