@@ -583,6 +583,22 @@
     <tu>
       <tuv lang="en">
         <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T143712Z" creationid="Christelle" creationdate="20230615T143712Z">
+        <seg>- gwiriekaat hag eñ e vez graet war-dro o furmad gant OmegaT:
+	  m'emañ gweredekaet ar silañ lec'hel
+	  mont war Raktres &gt; Arventennoù... &gt; Siloù ar restroù lec'hel...,
+	  mod-all, mont war Arventennoù &gt; Siloù ar restroù hollek...;
+	- digeriñ anezhe gant o meziant orin evit gwiriekaat hag eñ n'int ket goullo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
 	  if per-project filter settings are enabled
 	  use Project &gt; Properties... &gt; Local File Filters...,
 	  otherwise use Options &gt; Global File Filters...;
