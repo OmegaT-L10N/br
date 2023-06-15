@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T145809Z" creationid="Christelle" creationdate="20230615T145809Z">
+        <seg>Ar raktres n'en deus ket gellet bezañ karget!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080514Z" creationid="Christelle" creationdate="20230609T080514Z">
@@ -1762,6 +1770,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083357Z" creationid="Christelle" creationdate="20230609T083357Z">
         <seg>Kregiñ gant ur raktres nevez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T145935Z" creationid="Christelle" creationdate="20230615T145935Z">
+        <seg>Cheñch sell gant {0} ha {1}</seg>
       </tuv>
     </tu>
     <tu>
