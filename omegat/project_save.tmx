@@ -750,6 +750,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151846Z" creationid="Christelle" creationdate="20230615T151846Z">
+        <seg>O kas ar restroù orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151913Z" creationid="Christelle" creationdate="20230615T151913Z">
+        <seg>O kas ar restroù pal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142931Z" creationid="Christelle" creationdate="20230511T142931Z">
@@ -950,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151825Z" creationid="Christelle" creationdate="20230615T151825Z">
+        <seg>Ar restroù pal n'o deus ket gellet bezañ kaset!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to copy files</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150657Z" creationid="Christelle" creationdate="20230511T150527Z">
@@ -1018,6 +1042,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T145423Z" creationid="Christelle" creationdate="20230615T145423Z">
         <seg>Memor treiñ {0} ar raktres n'en deus ket gellet bezañ karget!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151944Z" creationid="Christelle" creationdate="20230615T151944Z">
+        <seg>Arventennoù ar raktres n'o deus ket gellet bezañ hizivaet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151856Z" creationid="Christelle" creationdate="20230615T151856Z">
+        <seg>Restroù orin kaset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083332Z" creationid="Christelle" creationdate="20230609T083332Z">
@@ -1830,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151921Z" creationid="Christelle" creationdate="20230615T151921Z">
+        <seg>Restroù pal kaset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project is empty</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145623Z" creationid="Christelle" creationdate="20230511T145623Z">
@@ -1842,6 +1890,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080249Z" creationid="Christelle" creationdate="20230609T080249Z">
         <seg>Tem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152127Z" creationid="Christelle" creationdate="20230615T152127Z">
+        <seg>N'eus ket a arventennoù Git e-barzh teuliad ar raktres a-bell.</seg>
       </tuv>
     </tu>
     <tu>
