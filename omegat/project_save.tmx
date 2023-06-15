@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153852Z" creationid="Christelle" creationdate="20230615T153852Z">
+        <seg>#Restroù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080209Z" creationid="Christelle" creationdate="20230609T080209Z">
@@ -730,6 +738,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T153517Z" creationid="Christelle" creationdate="20230615T153517Z">
         <seg>Ne c'haller ket krouiñ an teuliad evit ar restroù troet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153838Z" creationid="Christelle" creationdate="20230615T153838Z">
+        <seg>Arrouezennoù (gant esaouennoù)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153845Z" creationid="Christelle" creationdate="20230615T153815Z">
+        <seg>Arrouezennoù (hep esaouennoù)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153913Z" creationid="Christelle" creationdate="20230615T153913Z">
+        <seg>Stadegoù ar raktres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082311Z" creationid="Christelle" creationdate="20230609T082311Z">
@@ -2046,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153905Z" creationid="Christelle" creationdate="20230615T153905Z">
+        <seg>Hollad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file created</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083427Z" creationid="Christelle" creationdate="20230609T083427Z">
@@ -2142,6 +2182,14 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145625Z" creationid="Christelle" creationdate="20230511T145625Z">
         <seg>Diwall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153656Z" creationid="Christelle" creationdate="20230615T153656Z">
+        <seg>Gerioù</seg>
       </tuv>
     </tu>
     <tu>
