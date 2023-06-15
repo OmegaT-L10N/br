@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152826Z" creationid="Christelle" creationdate="20230615T152826Z">
+        <seg>&amp;Ouzhpennañ restroù...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142255Z" creationid="Christelle" creationdate="20230511T142255Z">
@@ -774,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T153052Z" creationid="Christelle" creationdate="20230615T153052Z">
+        <seg>Troidigezhioù graet hag o vezañ graet enrollet dindan {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142931Z" creationid="Christelle" creationdate="20230511T142931Z">
@@ -1102,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152932Z" creationid="Christelle" creationdate="20230615T152932Z">
+        <seg>An teuliad {0} a zo bet krouet en un doare emgefreek evit ar raktres skipailh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global &amp;Segmentation Rules...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T081530Z" creationid="Christelle" creationdate="20230609T081530Z">
@@ -1278,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152840Z" creationid="Christelle" creationdate="20230615T152840Z">
+        <seg>O kargañ ar raktres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading: {0}</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083208Z" creationid="Christelle" creationdate="20230609T083208Z">
@@ -1330,6 +1362,38 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082203Z" creationid="Christelle" creationdate="20230609T082203Z">
         <seg>Muioc'h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152816Z" creationid="Christelle" creationdate="20230615T152816Z">
+        <seg>Lakaat da &amp;ziskenn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152752Z" creationid="Christelle" creationdate="20230615T152752Z">
+        <seg>Lakaat da &amp;gentañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152802Z" creationid="Christelle" creationdate="20230615T152802Z">
+        <seg>Lakaat da &amp;ziwezhañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T152811Z" creationid="Christelle" creationdate="20230615T152811Z">
+        <seg>Lakaat da &amp;bignat</seg>
       </tuv>
     </tu>
     <tu>
