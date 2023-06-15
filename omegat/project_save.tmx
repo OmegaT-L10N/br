@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151625Z" creationid="Christelle" creationdate="20230615T151625Z">
+        <seg>Ar raktres n'en deus ket gellet bezañ karget peogwir ez eus un ere arouezel pe fizikel o kas dezhañ e-unan pe d'un is-teuliad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T150939Z" creationid="Christelle" creationdate="20230615T150939Z">
@@ -1210,6 +1218,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083208Z" creationid="Christelle" creationdate="20230609T083208Z">
         <seg>O kargañ: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151047Z" creationid="Christelle" creationdate="20230615T151047Z">
+        <seg>Bezit sur ho peus an aotreoù reizh pe e c'hallit tizhout anezhe m'emaint war ar cloud.</seg>
       </tuv>
     </tu>
     <tu>
