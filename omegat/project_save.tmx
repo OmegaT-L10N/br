@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080209Z" creationid="Christelle" creationdate="20230609T080209Z">
+        <seg>&amp;Diwar-benn...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151138Z" creationid="Christelle" creationdate="20230511T151138Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T140843Z" creationid="Christelle" creationdate="20230511T140843Z">
         <seg>&amp;Nullañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T081647Z" creationid="Christelle" creationdate="20230609T081647Z">
+        <seg>&amp;Klask hizivadennoù...</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080943Z" creationid="Christelle" creationdate="20230609T080943Z">
+        <seg>Embanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exported TMs</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151517Z" creationid="Christelle" creationdate="20230511T151517Z">
@@ -174,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080131Z" creationid="Christelle" creationdate="20230609T080131Z">
+        <seg>&amp;Skoazell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142843Z" creationid="Christelle" creationdate="20230511T142843Z">
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091809Z" creationid="Christelle" creationdate="20230517T091809Z">
         <seg>&amp;Enlakaat ar Genglotadenn pe an Diuzad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080219Z" creationid="Christelle" creationdate="20230609T080219Z">
+        <seg>&amp;Cheñchamantoù diwezhañ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T081710Z" creationid="Christelle" creationdate="20230609T081710Z">
+        <seg>&amp;Diskouez emgefreek ar c'hinnigoù dedennus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151238Z" creationid="Christelle" creationdate="20230511T151238Z">
@@ -482,6 +530,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151839Z" creationid="Christelle" creationdate="20230511T151839Z">
         <seg>&amp;Nullañ an ober diwezhañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T081623Z" creationid="Christelle" creationdate="20230609T081623Z">
+        <seg>&amp;Levr an implijer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T081615Z" creationid="Christelle" creationdate="20230609T081615Z">
+        <seg>Mont d'an &amp;teuliad reoliañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150202Z" creationid="Christelle" creationdate="20230511T150202Z">
@@ -598,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080232Z" creationid="Christelle" creationdate="20230609T080232Z">
+        <seg>Leuniañ emgefreek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095607Z" creationid="Christelle" creationdate="20230517T095607Z">
@@ -624,8 +696,16 @@
       <tuv lang="en">
         <seg>Check Issues for &amp;Current File</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230517T102017Z" creationid="Christelle" creationdate="20230517T102017Z">
-        <seg>Diskouez fazioù ar &amp;restr a-vremañ</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T081923Z" creationid="Christelle" creationdate="20230517T102017Z">
+        <seg>Diskouez kudennoù ar &amp;restr a-vremañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082757Z" creationid="Christelle" creationdate="20230609T082757Z">
+        <seg>Serr&amp;iñ</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083415Z" creationid="Christelle" creationdate="20230609T083415Z">
+        <seg>O krouiñ ar restroù troet: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100948Z" creationid="Christelle" creationdate="20230517T100933Z">
@@ -750,10 +838,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082409Z" creationid="Christelle" creationdate="20230609T082409Z">
+        <seg>C'hoant ho peus mont kuit da vat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145810Z" creationid="Christelle" creationdate="20230511T145810Z">
         <seg>Pe&amp;llgargañ ur raktres skipailh...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083105Z" creationid="Christelle" creationdate="20230609T083105Z">
+        <seg>O pellgargañ ar raktres...</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,10 +878,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082212Z" creationid="Christelle" creationdate="20230609T082212Z">
+        <seg>Skrivañ niverenn ar rann:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142913Z" creationid="Christelle" creationdate="20230511T142913Z">
         <seg>Fazi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083201Z" creationid="Christelle" creationdate="20230609T083201Z">
+        <seg>Kudenn o krouiñ ar raktres!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083147Z" creationid="Christelle" creationdate="20230609T083147Z">
+        <seg>Kudenn oc'h enrollañ restr ar raktres!</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,10 +918,82 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083458Z" creationid="Christelle" creationdate="20230609T083458Z">
+        <seg>Ne c'haller ket krouiñ ur raktres!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080610Z" creationid="Christelle" creationdate="20230609T080610Z">
+        <seg>Ar restroù troet n'o deus ket gellet bezañ krouet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to download page</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150642Z" creationid="Christelle" creationdate="20230511T150520Z">
         <seg>C'hwitadenn war pellgargañ ar bajenn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080514Z" creationid="Christelle" creationdate="20230609T080514Z">
+        <seg>Memor treiñ {0} ar raktres n'eus ket gellet bezañ karget!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082647Z" creationid="Christelle" creationdate="20230609T082647Z">
+        <seg>Anv ar restr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082652Z" creationid="Christelle" creationdate="20230609T082652Z">
+        <seg>Sil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082750Z" creationid="Christelle" creationdate="20230609T082750Z">
+        <seg>Sil:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T081530Z" creationid="Christelle" creationdate="20230609T081530Z">
+        <seg>Reolennoù &amp; dazrannañ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T081201Z" creationid="Christelle" creationdate="20230609T081201Z">
+        <seg>Siloù ar &amp;restroù...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082121Z" creationid="Christelle" creationdate="20230609T082121Z">
+        <seg>Mont d'ar rann</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +1034,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100804Z" creationid="Christelle" creationdate="20230517T100804Z">
         <seg>Merkañ ar rannoù gant &amp;notennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080241Z" creationid="Christelle" creationdate="20230609T080241Z">
+        <seg>Roll istor</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082512Z" creationid="Christelle" creationdate="20230609T082512Z">
+        <seg>Mont d'an diwezhañ rann troet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094544Z" creationid="Christelle" creationdate="20230517T094544Z">
@@ -898,6 +1114,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094401Z" creationid="Christelle" creationdate="20230517T094401Z">
         <seg>Merk a-gleiz-da-zehoù (LRM U+200&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083348Z" creationid="Christelle" creationdate="20230609T083348Z">
+        <seg>O kargañ ar restroù TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083208Z" creationid="Christelle" creationdate="20230609T083208Z">
+        <seg>O kargañ: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,6 +1154,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T102049Z" creationid="Christelle" creationdate="20230517T102049Z">
         <seg>Stadegoù kenglotañ dre &amp;restr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082203Z" creationid="Christelle" creationdate="20230609T082203Z">
+        <seg>Muioc'h</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083024Z" creationid="Christelle" creationdate="20230609T083024Z">
+        <seg>Hollad ar rannoù dibar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="br" changeid="userone" changedate="20230510T102856Z" creationid="userone" creationdate="20230510T102856Z">
@@ -986,6 +1234,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145736Z" creationid="Christelle" creationdate="20230511T145736Z">
         <seg>OmegaT a zibab an arventenn 'Ya' en un doare emgefreek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080324Z" creationid="Christelle" creationdate="20230609T080324Z">
+        <seg>OmegaT a rank adkargañ ar raktres evit kemer e-kont ar cheñchamantoù.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1266,54 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150956Z" creationid="Christelle" creationdate="20230511T150941Z">
         <seg>Digeriñ ur raktres MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082805Z" creationid="Christelle" creationdate="20230609T082805Z">
+        <seg>Digeriñ ar restr orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082903Z" creationid="Christelle" creationdate="20230609T082903Z">
+        <seg>Digeriñ lec'hiadur ar restr orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082925Z" creationid="Christelle" creationdate="20230609T082925Z">
+        <seg>Digeriñ ar restr pal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082949Z" creationid="Christelle" creationdate="20230609T082949Z">
+        <seg>Digeriñ lec'hiadur ar restr pal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082836Z" creationid="Christelle" creationdate="20230609T082836Z">
+        <seg>Digeriñ {0} restr orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082941Z" creationid="Christelle" creationdate="20230609T082941Z">
+        <seg>Digeriñ {0} restr pal</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1346,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095149Z" creationid="Christelle" creationdate="20230517T095149Z">
         <seg>Notenn a-&amp;raok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082311Z" creationid="Christelle" creationdate="20230609T082311Z">
+        <seg>Raktres enrollet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1402,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094901Z" creationid="Christelle" creationdate="20230517T094901Z">
         <seg>Enrollañ un droidigezh heñvel ouzh an destenn orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080337Z" creationid="Christelle" creationdate="20230609T080337Z">
+        <seg>Adkargañ ar raktres diouzhtu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082300Z" creationid="Christelle" creationdate="20230609T082300Z">
+        <seg>Adkargañ ar raktres?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082306Z" creationid="Christelle" creationdate="20230609T082306Z">
+        <seg>Oc'h enrollañ ar raktres...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T102139Z" creationid="Christelle" creationdate="20230517T102139Z">
@@ -1194,6 +1530,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T143905Z" creationid="Christelle" creationdate="20230511T143905Z">
         <seg>Gwelout "Penaos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082155Z" creationid="Christelle" creationdate="20230609T082155Z">
+        <seg>Rann {0,niverenn,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082659Z" creationid="Christelle" creationdate="20230609T082659Z">
+        <seg>Rannoù</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082555Z" creationid="Christelle" creationdate="20230609T082555Z">
+        <seg>Ment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So&amp;urce Files...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151103Z" creationid="Christelle" creationdate="20230511T151103Z">
@@ -1286,10 +1646,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082642Z" creationid="Christelle" creationdate="20230609T082642Z">
+        <seg>Restroù orin ({0} war {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082620Z" creationid="Christelle" creationdate="20230609T082620Z">
+        <seg>Restroù orin ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083227Z" creationid="Christelle" creationdate="20230609T083227Z">
+        <seg>Karget eo bet ar restr orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083332Z" creationid="Christelle" creationdate="20230609T083332Z">
+        <seg>Karget eo bet ar restroù orin met laosket eo bet restr(où) a-gostez abalamour da fazi(où) tikedennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095252Z" creationid="Christelle" creationdate="20230517T095252Z">
         <seg>Testenn orin ar &amp;genglotadenn ziuzet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083357Z" creationid="Christelle" creationdate="20230609T083357Z">
+        <seg>Kregiñ gant ur raktres nevez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,10 +1710,74 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080249Z" creationid="Christelle" creationdate="20230609T080249Z">
+        <seg>Tem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T144535Z" creationid="Christelle" creationdate="20230511T144535Z">
         <seg>Evit ouzhpennañ restroù en ho raktres e c'hallit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083016Z" creationid="Christelle" creationdate="20230609T083016Z">
+        <seg>Hollad ar rannoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083427Z" creationid="Christelle" creationdate="20230609T083427Z">
+        <seg>Restr troet krouet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083421Z" creationid="Christelle" creationdate="20230609T083421Z">
+        <seg>Restroù troet krouet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083037Z" creationid="Christelle" creationdate="20230609T083037Z">
+        <seg>Rannoù dibar troet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T083445Z" creationid="Christelle" creationdate="20230609T083445Z">
+        <seg>Ne c'haller ket sevel ur restr TMX nevez!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T080917Z" creationid="Christelle" creationdate="20230609T080917Z">
+        <seg>Ar restroù troet n'o deus ket gellet bezañ troet peogwir e vank tikedennoù zo pe dre ma 'z int bet fallgemmet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082712Z" creationid="Christelle" creationdate="20230609T082712Z">
+        <seg>Rannoù dibar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1810,14 @@ An arventenn e talvoud eo {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082002Z" creationid="Christelle" creationdate="20230609T081914Z">
+        <seg>BInjivi &gt; Diskouez ar c'hudennoù... evit reizhañ ar fazioù tikedennoù ha klask adarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094707Z" creationid="Christelle" creationdate="20230517T094707Z">
@@ -1358,6 +1830,24 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145625Z" creationid="Christelle" creationdate="20230511T145625Z">
         <seg>Diwall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082741Z" creationid="Christelle" creationdate="20230609T082741Z">
+        <seg>Titouroù stadegel resis a c'halloc'h kavout er restr:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082254Z" creationid="Christelle" creationdate="20230609T082254Z">
+        <seg>Rankout a rit skrivañ un niverenn etre 1 ha {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1872,22 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T101759Z" creationid="Christelle" creationdate="20230517T101759Z">
         <seg>Diskouez evit a rann &amp;a-vremañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082529Z" creationid="Christelle" creationdate="20230609T082529Z">
+        <seg>rann 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230609T082552Z" creationid="Christelle" creationdate="20230609T082552Z">
+        <seg>dianav</seg>
       </tuv>
     </tu>
     <tu>
