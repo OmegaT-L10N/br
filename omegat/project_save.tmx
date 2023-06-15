@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151803Z" creationid="Christelle" creationdate="20230615T151803Z">
+        <seg>Ar restroù orin n'o deus ket gellet bezañ kaset!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to copy files</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150657Z" creationid="Christelle" creationdate="20230511T150527Z">
@@ -1218,6 +1226,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083208Z" creationid="Christelle" creationdate="20230609T083208Z">
         <seg>O kargañ: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T151708Z" creationid="Christelle" creationdate="20230615T151708Z">
+        <seg>Bezit emañ an ereoù e-maez an teuliad orin pe an is-teuliadoù.</seg>
       </tuv>
     </tu>
     <tu>
