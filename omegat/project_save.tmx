@@ -580,12 +580,12 @@
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230511T144943Z" creationid="Christelle" creationdate="20230511T144943Z">
-        <seg>- riklan ha dilec'hiañ restroù war ar prenestr man;
-	- implijout Raktres &gt; Ouzhpennan restroù...;
-	- implijout Raktres &gt; Restroù orin... ha klikañ war Ouzhpennan restroù...;
+      <tuv lang="br" changeid="Christelle" changedate="20230615T150446Z" creationid="Christelle" creationdate="20230511T144943Z">
+        <seg>- riklañ ha dilec'hiañ restroù war ar prenestr-mañ;
+	- mont war Raktres &gt; Ouzhpennañ restroù...;
+	- mont war Raktres &gt; Restroù orin... ha klikañ war Ouzhpennañ restroù...;
 	- implijout ho merour restroù evit eilañ restroù e-barzh an teuliad 'orin',
-	  ha neuze, implijout Raktres &gt; Kargañ en-dro evit kargañ ar raktres en-dro.</seg>
+	  ha neuze, mont war Raktres &gt; Kargañ en-dro evit kargañ ar raktres en-dro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -596,9 +596,9 @@
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230615T143712Z" creationid="Christelle" creationdate="20230615T143712Z">
-        <seg>- gwiriekaat hag eñ e vez graet war-dro o furmad gant OmegaT:
-	  m'emañ gweredekaet ar silañ lec'hel
+      <tuv lang="br" changeid="Christelle" changedate="20230615T150707Z" creationid="Christelle" creationdate="20230615T143712Z">
+        <seg>- gwiriekaat hag eñ e vez graet war-dro furmad ar restroù gant OmegaT:
+	  m'emañ enaouet ar silañ lec'hel
 	  mont war Raktres &gt; Arventennoù... &gt; Siloù ar restroù lec'hel...,
 	  mod-all, mont war Arventennoù &gt; Siloù ar restroù hollek...;
 	- digeriñ anezhe gant o meziant orin evit gwiriekaat hag eñ n'int ket goullo.</seg>
