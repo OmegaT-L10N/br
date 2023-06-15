@@ -1942,8 +1942,8 @@ An arventenn e talvoud eo {0}MB;</seg>
       <tuv lang="en">
         <seg>Your project does not seem to contain translatable files.</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230511T144518Z" creationid="Christelle" creationdate="20230511T144518Z">
-        <seg>Ne seblant ket bezañ restroù mat da dreiñ en ho raktres.</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230615T150319Z" creationid="Christelle" creationdate="20230511T144518Z">
+        <seg>Ne seblant ket bezañ restroù en ur furmad mat da dreiñ en ho raktres.</seg>
       </tuv>
     </tu>
     <tu>
