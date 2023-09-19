@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091925Z" creationid="Christelle" creationdate="20230919T091925Z">
+        <seg>Lec'hiadur ar restroù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File {0}: {1}</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T090850Z" creationid="Christelle" creationdate="20230919T090850Z">
@@ -1224,8 +1232,8 @@
       <tuv lang="en">
         <seg>Global &amp;Segmentation Rules...</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230609T081530Z" creationid="Christelle" creationdate="20230609T081530Z">
-        <seg>Reolennoù &amp; dazrannañ...</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092234Z" creationid="Christelle" creationdate="20230609T081530Z">
+        <seg>Reolennoù rannañ hollek...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091856Z" creationid="Christelle" creationdate="20230919T091856Z">
+        <seg>Yezhoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094544Z" creationid="Christelle" creationdate="20230517T094544Z">
@@ -1418,6 +1434,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083208Z" creationid="Christelle" creationdate="20230609T083208Z">
         <seg>O kargañ: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092026Z" creationid="Christelle" creationdate="20230919T092026Z">
+        <seg>Siloù ar restroù &amp;lec'hel...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092131Z" creationid="Christelle" creationdate="20230919T092131Z">
+        <seg>Reolennoù razrannañ l&amp;ec'hel...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,6 +1706,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082941Z" creationid="Christelle" creationdate="20230609T082941Z">
         <seg>Digeriñ {0} restr pal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091859Z" creationid="Christelle" creationdate="20230919T091859Z">
+        <seg>Dibarzhioù</seg>
       </tuv>
     </tu>
     <tu>
