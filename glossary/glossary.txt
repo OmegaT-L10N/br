@@ -15,3 +15,5 @@ Log	Renabl	Journal, stlenneg
 Clipboard	Golver	gourel
 Glossaries	Geriaouegi
 Glossary	Geriaoueg
+tokenizer	lemmatekaer
+Auto-propagation	Skignadur-emgefreek
