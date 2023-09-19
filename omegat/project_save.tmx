@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T090050Z" creationid="Christelle" creationdate="20230919T090050Z">
+        <seg>E&amp;ilañ an holl roadennoù er golver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151547Z" creationid="Christelle" creationdate="20230511T151547Z">
@@ -1734,10 +1742,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085851Z" creationid="Christelle" creationdate="20230919T085851Z">
+        <seg>Arouezennoù a chom (gant esaouennoù)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230919T085722Z" creationid="Christelle" creationdate="20230919T085722Z">
-        <seg>Arouezenn a chom (hep an esaouennoù)</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085750Z" creationid="Christelle" creationdate="20230919T085722Z">
+        <seg>Arouezenn a chom (hep esaouennoù)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,10 +2134,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085837Z" creationid="Christelle" creationdate="20230919T085837Z">
+        <seg>Hollad an arouezennoù (gant esaouennoù)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230919T085648Z" creationid="Christelle" creationdate="20230919T085648Z">
-        <seg>Hollad an arouezennoù (hep esaouenn)</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085755Z" creationid="Christelle" creationdate="20230919T085648Z">
+        <seg>Hollad an arouezennoù (hep esaouennoù)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,6 +2218,38 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080917Z" creationid="Christelle" creationdate="20230609T080917Z">
         <seg>Ar restroù troet n'o deus ket gellet bezañ troet peogwir e vank tikedennoù zo pe dre ma 'z int bet fallgemmet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085902Z" creationid="Christelle" creationdate="20230919T085902Z">
+        <seg>Arouezennoù dibar (gant esaouennoù)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085812Z" creationid="Christelle" creationdate="20230919T085812Z">
+        <seg>Arouezennoù dibar (hep esaouennoù)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085915Z" creationid="Christelle" creationdate="20230919T085915Z">
+        <seg>Arouezennoù dibar a chom (gant esaouennoù)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085825Z" creationid="Christelle" creationdate="20230919T085825Z">
+        <seg>Arouezennoù dibar a chom (hep esaouennoù)</seg>
       </tuv>
     </tu>
     <tu>
