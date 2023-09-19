@@ -13,3 +13,5 @@ History Completion	Emglokaat istorel
 History Prediction	Rakskrivañ istorel
 Log	Renabl	Journal, stlenneg
 Clipboard	Golver	gourel
+Glossaries	Geriaouegi
+Glossary	Geriaoueg
