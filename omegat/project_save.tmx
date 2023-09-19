@@ -2230,10 +2230,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093314Z" creationid="Christelle" creationdate="20230919T093314Z">
+        <seg>Yezh ar restroù orin :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083332Z" creationid="Christelle" creationdate="20230609T083332Z">
         <seg>Karget eo bet ar restroù orin met laosket eo bet restr(où) a-gostez abalamour da fazi(où) tikedennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093414Z" creationid="Christelle" creationdate="20230919T093414Z">
+        <seg>Lemmatekaet ar yezh orin :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2314,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T151921Z" creationid="Christelle" creationdate="20230615T151921Z">
         <seg>Restroù pal kaset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093429Z" creationid="Christelle" creationdate="20230919T093429Z">
+        <seg>Lemmatekaer ar yezh pal :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2402,6 +2426,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T093006Z" creationid="Christelle" creationdate="20230919T093006Z">
         <seg>Teuliad ar restroù troet :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093322Z" creationid="Christelle" creationdate="20230919T093322Z">
+        <seg>Yezh ar restroù troet :</seg>
       </tuv>
     </tu>
     <tu>
