@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093848Z" creationid="Christelle" creationdate="20230919T093848Z">
+        <seg>&amp;Skignadur-emgefreek eus an troidigezhioù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095421Z" creationid="Christelle" creationdate="20230517T095353Z">
@@ -2248,8 +2256,8 @@
       <tuv lang="en">
         <seg>Source language tokenizer:</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230919T093414Z" creationid="Christelle" creationdate="20230919T093414Z">
-        <seg>Lemmatekaet ar yezh orin :</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093653Z" creationid="Christelle" creationdate="20230919T093414Z">
+        <seg>Lemmatekaer ar yezh orin :</seg>
       </tuv>
     </tu>
     <tu>
