@@ -1422,10 +1422,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T090111Z" creationid="Christelle" creationdate="20230919T090111Z">
+        <seg>Stadegoù kenglotañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T102049Z" creationid="Christelle" creationdate="20230517T102049Z">
         <seg>Stadegoù kenglotañ dre &amp;restr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T090121Z" creationid="Christelle" creationdate="20230919T090121Z">
+        <seg>Stadegoù kenglotañ dre restr</seg>
       </tuv>
     </tu>
     <tu>
@@ -2074,6 +2090,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083357Z" creationid="Christelle" creationdate="20230609T083357Z">
         <seg>Kregiñ gant ur raktres nevez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T090054Z" creationid="Christelle" creationdate="20230919T090054Z">
+        <seg>Stadegoù</seg>
       </tuv>
     </tu>
     <tu>
