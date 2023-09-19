@@ -2278,6 +2278,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093215Z" creationid="Christelle" creationdate="20230919T093215Z">
+        <seg>TMX Live 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093218Z" creationid="Christelle" creationdate="20230919T093218Z">
+        <seg>TMX Live 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T151921Z" creationid="Christelle" creationdate="20230615T151921Z">
@@ -2402,6 +2418,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T092646Z" creationid="Christelle" creationdate="20230919T092646Z">
         <seg>Teuliad ar memorioù treiñ :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093125Z" creationid="Christelle" creationdate="20230919T093125Z">
+        <seg>Memorioù treiñ da ezporzhiañ :</seg>
       </tuv>
     </tu>
     <tu>
