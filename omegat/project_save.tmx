@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093902Z" creationid="Christelle" creationdate="20230919T093902Z">
+        <seg>Dilemel balizenn&amp;où</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repeated segments: {0}</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T152434Z" creationid="Christelle" creationdate="20230615T152434Z">
