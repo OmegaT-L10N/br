@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092956Z" creationid="Christelle" creationdate="20230919T092956Z">
+        <seg>Teuliad ar geriadurioù :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100948Z" creationid="Christelle" creationdate="20230517T100933Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T090741Z" creationid="Christelle" creationdate="20230919T090741Z">
         <seg>Peurgenglotadenn :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093100Z" creationid="Christelle" creationdate="20230919T093033Z">
+        <seg>Teuliad ar memorioù treiñ ezporzhiet :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T093006Z" creationid="Christelle" creationdate="20230919T093006Z">
+        <seg>Teuliad ar restroù troet :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083037Z" creationid="Christelle" creationdate="20230609T083037Z">
@@ -2556,8 +2580,8 @@ An arventenn e talvoud eo {0}MB;</seg>
       <tuv lang="en">
         <seg>Writable glossary file:</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230919T092859Z" creationid="Christelle" creationdate="20230919T092859Z">
-        <seg>Geriaoueg da skrivañ :</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092916Z" creationid="Christelle" creationdate="20230919T092859Z">
+        <seg>Geriaoueg da gemmañ :</seg>
       </tuv>
     </tu>
     <tu>
