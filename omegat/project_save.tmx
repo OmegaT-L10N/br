@@ -1846,6 +1846,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091312Z" creationid="Christelle" creationdate="20230919T091312Z">
+        <seg>Adkavet er restr-mañ :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091154Z" creationid="Christelle" creationdate="20230919T091154Z">
+        <seg>Adkavet :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091847Z" creationid="Christelle" creationdate="20230517T091847Z">
