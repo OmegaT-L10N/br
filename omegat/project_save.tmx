@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092738Z" creationid="Christelle" creationdate="20230919T092738Z">
+        <seg>Teuliad ar geriaouegi :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Segment</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082121Z" creationid="Christelle" creationdate="20230609T082121Z">
@@ -1658,6 +1666,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150956Z" creationid="Christelle" creationdate="20230511T150941Z">
         <seg>Digeriñ ur raktres MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092629Z" creationid="Christelle" creationdate="20230919T092629Z">
+        <seg>Digeriñ ur raktres</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092652Z" creationid="Christelle" creationdate="20230919T092636Z">
+        <seg>Teuliad ar restroù orin :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083332Z" creationid="Christelle" creationdate="20230609T083332Z">
@@ -2350,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092646Z" creationid="Christelle" creationdate="20230919T092646Z">
+        <seg>Teuliad ar memorioù treiñ :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083445Z" creationid="Christelle" creationdate="20230609T083445Z">
@@ -2498,6 +2530,14 @@ An arventenn e talvoud eo {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092541Z" creationid="Christelle" creationdate="20230919T092541Z">
+        <seg>Implijout ar reolennoù rannañ &amp;lec'hel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145625Z" creationid="Christelle" creationdate="20230511T145625Z">
@@ -2510,6 +2550,14 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T153656Z" creationid="Christelle" creationdate="20230615T153656Z">
         <seg>Gerioù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T092859Z" creationid="Christelle" creationdate="20230919T092859Z">
+        <seg>Geriaoueg da skrivañ :</seg>
       </tuv>
     </tu>
     <tu>
