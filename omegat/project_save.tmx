@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T090741Z" creationid="Christelle" creationdate="20230919T090741Z">
+        <seg>Peurgenglotadenn :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T151803Z" creationid="Christelle" creationdate="20230615T151803Z">
@@ -1158,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T090850Z" creationid="Christelle" creationdate="20230919T090850Z">
+        <seg>Restr {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082647Z" creationid="Christelle" creationdate="20230609T082647Z">
@@ -1186,6 +1202,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T152932Z" creationid="Christelle" creationdate="20230615T152932Z">
         <seg>An teuliad {0} a zo bet krouet en un doare emgefreek evit ar raktres skipailh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091003Z" creationid="Christelle" creationdate="20230919T091003Z">
+        <seg>Evit an holl restroù :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1546,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095225Z" creationid="Christelle" creationdate="20230517T095225Z">
         <seg>Rann &amp;dibar da-heul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T090831Z" creationid="Christelle" creationdate="20230919T090831Z">
+        <seg>Kenglotadenn ebet :</seg>
       </tuv>
     </tu>
     <tu>
