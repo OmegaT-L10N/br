@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091853Z" creationid="Christelle" creationdate="20230919T091853Z">
+        <seg>Perzhioù ar raktres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T153913Z" creationid="Christelle" creationdate="20230615T153913Z">
@@ -1962,6 +1970,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091951Z" creationid="Christelle" creationdate="20230517T091951Z">
         <seg>Di&amp;uzañ an destenn orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091756Z" creationid="Christelle" creationdate="20230919T091756Z">
+        <seg>Ra&amp;nnañ dre frazenn</seg>
       </tuv>
     </tu>
     <tu>
