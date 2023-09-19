@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091646Z" creationid="Christelle" creationdate="20230919T091646Z">
+        <seg>An taolennoù ne rankont ket bezañ goullo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080232Z" creationid="Christelle" creationdate="20230609T080232Z">
@@ -1842,6 +1850,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T152434Z" creationid="Christelle" creationdate="20230615T152434Z">
         <seg>Rannoù eilskrivet : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T091322Z" creationid="Christelle" creationdate="20230919T091322Z">
+        <seg>Adkavet e restroù all :</seg>
       </tuv>
     </tu>
     <tu>
