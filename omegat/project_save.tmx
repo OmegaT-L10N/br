@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085423Z" creationid="Christelle" creationdate="20230919T085423Z">
+        <seg>Stadegoù dre restr :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T101122Z" creationid="Christelle" creationdate="20230517T094217Z">
@@ -1726,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085220Z" creationid="Christelle" creationdate="20230919T085220Z">
+        <seg>A chom :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remo&amp;ve Translation</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094815Z" creationid="Christelle" creationdate="20230517T094815Z">
@@ -2150,10 +2166,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085241Z" creationid="Christelle" creationdate="20230919T085241Z">
+        <seg>Rannoù dibar a chom:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique segments</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082712Z" creationid="Christelle" creationdate="20230609T082712Z">
         <seg>Rannoù dibar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085257Z" creationid="Christelle" creationdate="20230919T085257Z">
+        <seg>Rannoù dibar:</seg>
       </tuv>
     </tu>
     <tu>
