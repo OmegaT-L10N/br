@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T083326Z" creationid="Christelle" creationdate="20230919T083326Z">
+        <seg>Anv ar restr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082647Z" creationid="Christelle" creationdate="20230609T082647Z">
@@ -2066,6 +2074,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T144535Z" creationid="Christelle" creationdate="20230511T144535Z">
         <seg>Evit ouzhpennañ restroù en ho raktres e c'hallit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T083337Z" creationid="Christelle" creationdate="20230919T083337Z">
+        <seg>Hollad ar rannoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T083400Z" creationid="Christelle" creationdate="20230919T083400Z">
+        <seg>Hollad ar gerioù</seg>
       </tuv>
     </tu>
     <tu>
