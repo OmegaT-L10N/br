@@ -1734,6 +1734,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085722Z" creationid="Christelle" creationdate="20230919T085722Z">
+        <seg>Arouezenn a chom (hep an esaouennoù)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085441Z" creationid="Christelle" creationdate="20230919T085441Z">
+        <seg>Rannoù a chom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085523Z" creationid="Christelle" creationdate="20230919T085523Z">
+        <seg>Gerioù a chom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T085220Z" creationid="Christelle" creationdate="20230919T085220Z">
@@ -2094,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085648Z" creationid="Christelle" creationdate="20230919T085648Z">
+        <seg>Hollad an arouezennoù (hep esaouenn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Segments</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T083337Z" creationid="Christelle" creationdate="20230919T083337Z">
@@ -2166,10 +2198,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085453Z" creationid="Christelle" creationdate="20230919T085453Z">
+        <seg>Rannoù dibar a chom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085535Z" creationid="Christelle" creationdate="20230919T085535Z">
+        <seg>Gerioù dibar a chom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Remaining:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T085241Z" creationid="Christelle" creationdate="20230919T085241Z">
         <seg>Rannoù dibar a chom:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085443Z" creationid="Christelle" creationdate="20230919T085443Z">
+        <seg>Rannoù dibar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230919T085530Z" creationid="Christelle" creationdate="20230919T085530Z">
+        <seg>Gerioù dibar</seg>
       </tuv>
     </tu>
     <tu>
