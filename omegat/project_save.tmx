@@ -1158,6 +1158,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085219Z" creationid="Christelle" creationdate="20230920T085219Z">
+        <seg>Skrivit ur c'hod yezh er furmad  xx-YY, xxx-YY, xx_YY pe xxx_YY, e-lec'h m'eo xx pe xxx 
+kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082212Z" creationid="Christelle" creationdate="20230609T082212Z">
@@ -1306,6 +1316,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T151944Z" creationid="Christelle" creationdate="20230615T151944Z">
         <seg>Arventennoù ar raktres n'o deus ket gellet bezañ hizivaet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T084938Z" creationid="Christelle" creationdate="20230920T084938Z">
+        <seg>Restr</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2556,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145623Z" creationid="Christelle" creationdate="20230511T145623Z">
         <seg>Goullo eo ar raktres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085025Z" creationid="Christelle" creationdate="20230920T085025Z">
+        <seg>N'eo ket reizh yezh ar restr orin !</seg>
       </tuv>
     </tu>
     <tu>
