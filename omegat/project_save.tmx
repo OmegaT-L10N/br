@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T084226Z" creationid="Christelle" creationdate="20230920T084226Z">
+        <seg>Saveteet eo bet ar restr orin dindan : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project is empty</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145623Z" creationid="Christelle" creationdate="20230511T145623Z">
@@ -2678,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T084304Z" creationid="Christelle" creationdate="20230920T084304Z">
+        <seg>Ne c'haller ket amdreiñ ar raktres !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to create a backup file of {0}</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T083818Z" creationid="Christelle" creationdate="20230920T083818Z">
@@ -2690,6 +2706,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080917Z" creationid="Christelle" creationdate="20230609T080917Z">
         <seg>Ar restroù troet n'o deus ket gellet bezañ troet peogwir e vank tikedennoù zo pe dre ma 'z int bet fallgemmet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T084332Z" creationid="Christelle" creationdate="20230920T084332Z">
+        <seg>Ne c'haller ket pellgargañ ar raktres skipailh !</seg>
       </tuv>
     </tu>
     <tu>
