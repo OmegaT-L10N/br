@@ -20,3 +20,5 @@ Auto-propagation	Skignadur-emgefreek
 post-processing	goude-tretañ
 commands	urzhiadoù
 disabled	diweredekaet
+Preferences	Dibaboù Gwellañ
+Saving and Output	Enrollañ ha Seveniñ
