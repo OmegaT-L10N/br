@@ -742,6 +742,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082308Z" creationid="Christelle" creationdate="20230920T082308Z">
+        <seg>F&amp;urchal...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082253Z" creationid="Christelle" creationdate="20230920T082253Z">
+        <seg>Fur&amp;chal...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082300Z" creationid="Christelle" creationdate="20230920T082300Z">
+        <seg>Furch&amp;al...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082328Z" creationid="Christelle" creationdate="20230920T082328Z">
+        <seg>Furcha&amp;l...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082239Z" creationid="Christelle" creationdate="20230920T082239Z">
+        <seg>Furchal&amp;...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082313Z" creationid="Christelle" creationdate="20230920T082313Z">
+        <seg>Furchal...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T090050Z" creationid="Christelle" creationdate="20230919T090050Z">
@@ -1110,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083121Z" creationid="Christelle" creationdate="20230920T083121Z">
+        <seg>Ezporzhiañ teuliad ar memorioù treiñ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export translation memories folder:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T093100Z" creationid="Christelle" creationdate="20230919T093033Z">
@@ -1298,6 +1354,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T092738Z" creationid="Christelle" creationdate="20230919T092738Z">
         <seg>Teuliad ar geriaouegi :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082403Z" creationid="Christelle" creationdate="20230920T082403Z">
+        <seg>Teuliad ar geriaouegi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082332Z" creationid="Christelle" creationdate="20230920T082332Z">
+        <seg>Teuliad ar restroù orin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083227Z" creationid="Christelle" creationdate="20230609T083227Z">
@@ -2470,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082346Z" creationid="Christelle" creationdate="20230920T082346Z">
+        <seg>Teuliad ar restroù troet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file created</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083427Z" creationid="Christelle" creationdate="20230609T083427Z">
@@ -2506,6 +2586,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083037Z" creationid="Christelle" creationdate="20230609T083037Z">
         <seg>Rannoù dibar troet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082428Z" creationid="Christelle" creationdate="20230920T082428Z">
+        <seg>Teuliad ar memorioù treiñ</seg>
       </tuv>
     </tu>
     <tu>
