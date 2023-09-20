@@ -19,3 +19,4 @@ tokenizer	lemmatekaer
 Auto-propagation	Skignadur-emgefreek
 post-processing	goude-tretañ
 commands	urzhiadoù
+disabled	diweredekaet
