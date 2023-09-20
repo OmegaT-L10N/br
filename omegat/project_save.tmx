@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083135Z" creationid="Christelle" creationdate="20230920T083135Z">
+        <seg>Teuliad ar geriadurioù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T100948Z" creationid="Christelle" creationdate="20230517T100933Z">
@@ -2782,6 +2790,14 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T153656Z" creationid="Christelle" creationdate="20230615T153656Z">
         <seg>Gerioù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083147Z" creationid="Christelle" creationdate="20230920T083147Z">
+        <seg>Geriaoueg da gemmañ</seg>
       </tuv>
     </tu>
     <tu>
