@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083543Z" creationid="Christelle" creationdate="20230920T083543Z">
+        <seg>Dibab ur raktres MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082757Z" creationid="Christelle" creationdate="20230609T082757Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150950Z" creationid="Christelle" creationdate="20230511T150950Z">
         <seg>Krouiñ ur raktres MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083526Z" creationid="Christelle" creationdate="20230920T083526Z">
+        <seg>Krouiñ un teuliad Raktres</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083508Z" creationid="Christelle" creationdate="20230920T083508Z">
+        <seg>Enklask dia&amp;vaez...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T092026Z" creationid="Christelle" creationdate="20230919T092026Z">
@@ -1770,6 +1794,14 @@
       </tuv>
       <tuv lang="br" changeid="userone" changedate="20230510T102856Z" creationid="userone" creationdate="20230510T102856Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083627Z" creationid="Christelle" creationdate="20230920T083627Z">
+        <seg>Restroù raktres OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083818Z" creationid="Christelle" creationdate="20230920T083818Z">
+        <seg>Ne c'haller ket krouiñ ur restr saveteiñ evit {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to create the translated files due to missing or damaged tags.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080917Z" creationid="Christelle" creationdate="20230609T080917Z">
@@ -2832,6 +2872,14 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T150319Z" creationid="Christelle" creationdate="20230511T144518Z">
         <seg>Ne seblant ket bezañ restroù en ur furmad mat da dreiñ en ho raktres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083550Z" creationid="Christelle" creationdate="20230920T083550Z">
+        <seg>restroù ZIP</seg>
       </tuv>
     </tu>
     <tu>
