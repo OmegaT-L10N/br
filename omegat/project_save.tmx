@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085537Z" creationid="Christelle" creationdate="20230920T085537Z">
+        <seg>Gweredekaet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
 is the language code and YY is the region or country code (optional).</seg>
       </tuv>
@@ -1344,6 +1352,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085516Z" creationid="Christelle" creationdate="20230920T085516Z">
+        <seg>Furmad ar restr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T091925Z" creationid="Christelle" creationdate="20230919T091925Z">
@@ -1516,6 +1532,22 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145153Z" creationid="Christelle" creationdate="20230511T145153Z">
         <seg>M'en deus ar raktres restroù ennañ ha ma ne welit ket anezhe amañ :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085500Z" creationid="Christelle" creationdate="20230920T085500Z">
+        <seg>En evezhiadennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085448Z" creationid="Christelle" creationdate="20230920T085448Z">
+        <seg>En notennoù</seg>
       </tuv>
     </tu>
     <tu>
@@ -2572,6 +2604,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T093429Z" creationid="Christelle" creationdate="20230919T093429Z">
         <seg>Lemmatekaer ar yezh pal :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085601Z" creationid="Christelle" creationdate="20230920T085601Z">
+        <seg>Testenn</seg>
       </tuv>
     </tu>
     <tu>
