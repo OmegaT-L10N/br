@@ -25,3 +25,4 @@ Saving and Output	Enrollañ ha Seveniñ
 backup file	restr saveteiñ
 team project	raktres skipailh
 Enabled	Gweredekaet
+Properties	Arventennoù
