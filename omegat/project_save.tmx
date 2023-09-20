@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085324Z" creationid="Christelle" creationdate="20230920T085324Z">
+        <seg>FAZI : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095943Z" creationid="Christelle" creationdate="20230517T095943Z">
@@ -1548,6 +1556,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092806Z" creationid="Christelle" creationdate="20230517T092806Z">
         <seg>Enlakaat ar valizenn {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085237Z" creationid="Christelle" creationdate="20230920T085237Z">
+        <seg>N'eo ket reizh yezh ar restr troet !</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,6 +2192,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085440Z" creationid="Christelle" creationdate="20230920T085440Z">
+        <seg>Erlec'hiañ gant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092904Z" creationid="Christelle" creationdate="20230517T092904Z">
@@ -2268,6 +2292,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092912Z" creationid="Christelle" creationdate="20230517T092912Z">
         <seg>Klask geriadurioù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T085427Z" creationid="Christelle" creationdate="20230920T085427Z">
+        <seg>Klask war-lerc'h :</seg>
       </tuv>
     </tu>
     <tu>
