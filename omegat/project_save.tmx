@@ -1494,6 +1494,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T081107Z" creationid="Christelle" creationdate="20230920T081107Z">
+        <seg>Urzhiadoù goude-tretañ lec'hel (diweredekaet):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T081248Z" creationid="Christelle" creationdate="20230920T081248Z">
+        <seg>Diweredekaet eo an urzhiadoù goude-tretañ lec'hel ha ne vint ket sevenet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure all links are outside the source folder and subfolders.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T151708Z" creationid="Christelle" creationdate="20230615T151708Z">
