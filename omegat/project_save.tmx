@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T084355Z" creationid="Christelle" creationdate="20230920T084355Z">
+        <seg>Ouzhpennañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T150202Z" creationid="Christelle" creationdate="20230511T150202Z">
@@ -2090,6 +2098,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094815Z" creationid="Christelle" creationdate="20230517T094815Z">
         <seg>Dilem&amp;el an droidigezh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T084358Z" creationid="Christelle" creationdate="20230920T084351Z">
+        <seg>Dilemel</seg>
       </tuv>
     </tu>
     <tu>
