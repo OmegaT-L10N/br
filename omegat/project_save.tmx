@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T082233Z" creationid="Christelle" creationdate="20230920T082233Z">
+        <seg>E&amp;zlakadurioù...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092102Z" creationid="Christelle" creationdate="20230517T092102Z">
