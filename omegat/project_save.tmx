@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T084104Z" creationid="Christelle" creationdate="20230920T084104Z">
+        <seg>Erlec'hiet e vo kefluniadur ar raktres a-vremañ gant hini ar raktres a-bell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor locked</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T152515Z" creationid="Christelle" creationdate="20230615T152515Z">
@@ -2654,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083900Z" creationid="Christelle" creationdate="20230920T083900Z">
+        <seg>O klask gant ar restr saveteiñ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083445Z" creationid="Christelle" creationdate="20230609T083445Z">
@@ -2674,6 +2690,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080917Z" creationid="Christelle" creationdate="20230609T080917Z">
         <seg>Ar restroù troet n'o deus ket gellet bezañ troet peogwir e vank tikedennoù zo pe dre ma 'z int bet fallgemmet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T083834Z" creationid="Christelle" creationdate="20230920T083834Z">
+        <seg>Ne c'haller ket lenn restr ar raktres !</seg>
       </tuv>
     </tu>
     <tu>
