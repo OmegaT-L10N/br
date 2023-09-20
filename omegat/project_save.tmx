@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T081751Z" creationid="Christelle" creationdate="20230920T081751Z">
+        <seg>Enaouiit anezhe e-barzh Dibaboù Gwellañ &gt; Enrollañ ha Seveniñ....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082212Z" creationid="Christelle" creationdate="20230609T082212Z">
