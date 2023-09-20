@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230920T081021Z" creationid="Christelle" creationdate="20230920T081021Z">
+        <seg>Urzhiadoù goude-tretañ lec'hel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure all links are outside the source folder and subfolders.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T151708Z" creationid="Christelle" creationdate="20230615T151708Z">
