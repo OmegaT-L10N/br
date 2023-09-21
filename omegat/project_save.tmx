@@ -1528,6 +1528,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092049Z" creationid="Christelle" creationdate="20230921T092049Z">
+        <seg>ENLAKAAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145153Z" creationid="Christelle" creationdate="20230511T145153Z">
@@ -1576,6 +1584,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T091825Z" creationid="Christelle" creationdate="20230921T091825Z">
+        <seg>Mod Enlakaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing T&amp;ag</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092715Z" creationid="Christelle" creationdate="20230517T092715Z">
@@ -1612,6 +1628,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T144944Z" creationid="Christelle" creationdate="20230615T144944Z">
         <seg>R&amp;enabl...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092025Z" creationid="Christelle" creationdate="20230921T092025Z">
+        <seg>PRENNET</seg>
       </tuv>
     </tu>
     <tu>
@@ -1872,6 +1896,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092044Z" creationid="Christelle" creationdate="20230921T092044Z">
+        <seg>FLASTRAÑ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="br" changeid="userone" changedate="20230510T102856Z" creationid="userone" creationdate="20230510T102856Z">
@@ -2002,8 +2034,8 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230921T091805Z" creationid="Christelle" creationdate="20230921T091805Z">
-        <seg>Mod flastrañ</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T091842Z" creationid="Christelle" creationdate="20230921T091805Z">
+        <seg>Mod Flastrañ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2552,6 +2584,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092146Z" creationid="Christelle" creationdate="20230921T092146Z">
+        <seg>Hirrder Orin/troidigezh (arrouezenn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start new project.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083357Z" creationid="Christelle" creationdate="20230609T083357Z">
@@ -2796,6 +2836,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T083900Z" creationid="Christelle" creationdate="20230920T083900Z">
         <seg>O klask gant ar restr saveteiñ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092039Z" creationid="Christelle" creationdate="20230921T092039Z">
+        <seg>DIBRENNET</seg>
       </tuv>
     </tu>
     <tu>
