@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T093239Z" creationid="Christelle" creationdate="20230921T093239Z">
+        <seg>&amp;Implijout ar font-mañ evit roadennoù taoliek (listenn ar restroù orin, stadegoù h. a.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-Completion</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T102351Z" creationid="Christelle" creationdate="20230517T102351Z">
@@ -1664,6 +1672,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092748Z" creationid="Christelle" creationdate="20230921T092748Z">
+        <seg>Kemmet d'an diwezhañ gant {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094544Z" creationid="Christelle" creationdate="20230517T094544Z">
@@ -2344,6 +2360,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092938Z" creationid="Christelle" creationdate="20230921T092938Z">
+        <seg>Skouer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082306Z" creationid="Christelle" creationdate="20230609T082306Z">
@@ -2716,6 +2740,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T152127Z" creationid="Christelle" creationdate="20230615T152127Z">
         <seg>N'eus ket a arventennoù Git e-barzh teuliad ar raktres a-bell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092915Z" creationid="Christelle" creationdate="20230921T092915Z">
+        <seg>Diskouezet e vo an testennoù gant ar font-mañ.</seg>
       </tuv>
     </tu>
     <tu>
