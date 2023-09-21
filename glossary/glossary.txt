@@ -30,3 +30,4 @@ Left-to-Right Embedding	Enlakaat a-gleiz-da-zehoù
 Right-to-Left Embedding	Enlakaat a-zehoù-da-gleiz
 Overwrite Mode	Mod Flastrañ
 Insert Mode	Mod Enlakaat
+tabular data	roadennoù taoliek
