@@ -2784,6 +2784,22 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095003Z" creationid="Christelle" creationdate="20230921T095003Z">
+        <seg>N'eus ket eus an teuliad !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094714Z" creationid="Christelle" creationdate="20230921T094620Z">
+        <seg>N'eus ket eus an teuliad Geriaouegi !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T084226Z" creationid="Christelle" creationdate="20230920T084226Z">
@@ -2810,16 +2826,40 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       <tuv lang="en">
         <seg>The source files folder does not exist!</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230921T094538Z" creationid="Christelle" creationdate="20230921T094538Z">
-        <seg>N'eus ket deus an teuliad restroù orin !</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094706Z" creationid="Christelle" creationdate="20230921T094538Z">
+        <seg>N'eus ket eus an teuliad Restroù orin !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The translated files folder does not exist!</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230921T094555Z" creationid="Christelle" creationdate="20230921T094555Z">
-        <seg>N'eus ket eus an teuliad restroù troet !</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094709Z" creationid="Christelle" creationdate="20230921T094555Z">
+        <seg>N'eus ket eus an teuliad Restroù troet !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094837Z" creationid="Christelle" creationdate="20230921T094837Z">
+        <seg>N'eus ket eus an teuliad Memorioù treiñ !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094701Z" creationid="Christelle" creationdate="20230921T094701Z">
+        <seg>N'eus ket eus an teuliad Geriaouegi da gemmañ !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094811Z" creationid="Christelle" creationdate="20230921T094811Z">
+        <seg>Ar c'heriaoueg da gemmañ a rank bezañ e-barzh an teuliad Geriaouegi</seg>
       </tuv>
     </tu>
     <tu>
