@@ -26,3 +26,6 @@ backup file	restr saveteiñ
 team project	raktres skipailh
 Enabled	Gweredekaet
 Properties	Arventennoù
+Left-to-Right Embedding	Enlakaat a-gleiz-da-zehoù
+Right-to-Left Embedding	Enlakaat a-zehoù-da-gleiz
+Overwrite Mode	Mod flastrañ
