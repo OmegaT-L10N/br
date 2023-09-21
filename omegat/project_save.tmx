@@ -1378,16 +1378,16 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230921T092359Z" creationid="Christelle" creationdate="20230921T092359Z">
-        <seg>Restr : troet / niver a rann (raktres : dibar troet / dibar, hollad ar rannoù)</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092443Z" creationid="Christelle" creationdate="20230921T092359Z">
+        <seg>Restr : troet / niver a rann (raktres : rannoù dibar troet / rannoù dibar, hollad ar rannoù)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230921T092427Z" creationid="Christelle" creationdate="20230921T092427Z">
-        <seg>Restr : rannoù dibar troet % (dibar a chom) / project: unique translated % (unique left), total number of segments</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092515Z" creationid="Christelle" creationdate="20230921T092427Z">
+        <seg>Restr : rannoù dibar troet % (rannoù dibar a chom) / raktres : rannoù dibar troet % (rannoù dibar a chom), hollad ar rannoù</seg>
       </tuv>
     </tu>
     <tu>
@@ -2828,6 +2828,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T082428Z" creationid="Christelle" creationdate="20230920T082428Z">
         <seg>Teuliad ar memorioù treiñ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T092723Z" creationid="Christelle" creationdate="20230921T092708Z">
+        <seg>Troidigezh kemmet evit ar wech diwezhañ gant {0} d'ar {1} da {2}</seg>
       </tuv>
     </tu>
     <tu>
