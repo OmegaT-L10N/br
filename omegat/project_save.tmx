@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100348Z" creationid="Christelle" creationdate="20230921T100348Z">
+        <seg>{0} linenn ouzhpennet er c'heriaoueg diwar {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T091646Z" creationid="Christelle" creationdate="20230919T091646Z">
@@ -1062,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100148Z" creationid="Christelle" creationdate="20230921T100148Z">
+        <seg>Krouet gant : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated files: {0}</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083415Z" creationid="Christelle" creationdate="20230609T083415Z">
@@ -1202,6 +1218,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T085324Z" creationid="Christelle" creationdate="20230920T085324Z">
         <seg>FAZI : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100142Z" creationid="Christelle" creationdate="20230921T100142Z">
+        <seg>Embann</seg>
       </tuv>
     </tu>
     <tu>
@@ -1812,6 +1836,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083348Z" creationid="Christelle" creationdate="20230609T083348Z">
         <seg>O kargañ ar restroù TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100309Z" creationid="Christelle" creationdate="20230921T100309Z">
+        <seg>O kargañ ar c'heriaoueg {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,6 +2840,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100204Z" creationid="Christelle" creationdate="20230921T100204Z">
+        <seg>Yezh orin : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095252Z" creationid="Christelle" creationdate="20230517T095252Z">
@@ -3344,6 +3384,14 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T092541Z" creationid="Christelle" creationdate="20230919T092541Z">
         <seg>Implijout ar reolennoù rannañ &amp;lec'hel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100155Z" creationid="Christelle" creationdate="20230921T100155Z">
+        <seg>Handelv : {0}</seg>
       </tuv>
     </tu>
     <tu>
