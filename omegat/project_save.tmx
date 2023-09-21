@@ -2000,6 +2000,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T091805Z" creationid="Christelle" creationdate="20230921T091805Z">
+        <seg>Mod flastrañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>P&amp;revious Segment from tm/enforce/</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095909Z" creationid="Christelle" creationdate="20230517T095909Z">
