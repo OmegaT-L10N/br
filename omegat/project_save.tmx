@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100048Z" creationid="Christelle" creationdate="20230921T100048Z">
+        <seg>&amp;Troet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;UPPER CASE</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T093356Z" creationid="Christelle" creationdate="20230517T093356Z">
@@ -766,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095822Z" creationid="Christelle" creationdate="20230921T095822Z">
+        <seg>Ober&amp;our :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080232Z" creationid="Christelle" creationdate="20230609T080232Z">
@@ -858,6 +874,22 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T153517Z" creationid="Christelle" creationdate="20230615T153517Z">
         <seg>Ne c'haller ket krouiñ an teuliad evit ar restroù troet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095908Z" creationid="Christelle" creationdate="20230921T095908Z">
+        <seg>Kemmet &amp;a-raok :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095856Z" creationid="Christelle" creationdate="20230921T095856Z">
+        <seg>Kemmet goude :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1848,6 +1880,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100044Z" creationid="Christelle" creationdate="20230921T100044Z">
+        <seg>Memor meu&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure all links are outside the source folder and subfolders.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T151708Z" creationid="Christelle" creationdate="20230615T151708Z">
@@ -1996,6 +2036,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095940Z" creationid="Christelle" creationdate="20230517T095940Z">
         <seg>Bloc'h-notennañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095827Z" creationid="Christelle" creationdate="20230921T095827Z">
+        <seg>Bremañ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,6 +2588,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T085427Z" creationid="Christelle" creationdate="20230920T085427Z">
         <seg>Klask war-lerc'h :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100009Z" creationid="Christelle" creationdate="20230921T100009Z">
+        <seg>Klask e-barzh</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3418,14 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T083550Z" creationid="Christelle" creationdate="20230920T083550Z">
         <seg>restroù ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T100116Z" creationid="Christelle" creationdate="20230921T100116Z">
+        <seg>Anvioù restr</seg>
       </tuv>
     </tu>
     <tu>
