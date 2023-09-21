@@ -1552,6 +1552,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095814Z" creationid="Christelle" creationdate="20230921T095814Z">
+        <seg>Kuzhat an &amp;arventennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T101215Z" creationid="Christelle" creationdate="20230517T101215Z">
