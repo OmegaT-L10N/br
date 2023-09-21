@@ -31,3 +31,4 @@ Right-to-Left Embedding	Enlakaat a-zehoù-da-gleiz
 Overwrite Mode	Mod Flastrañ
 Insert Mode	Mod Enlakaat
 tabular data	roadennoù taoliek
+directory	kavlec'h
