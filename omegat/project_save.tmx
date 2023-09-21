@@ -2808,6 +2808,22 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094538Z" creationid="Christelle" creationdate="20230921T094538Z">
+        <seg>N'eus ket deus an teuliad restroù orin !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094555Z" creationid="Christelle" creationdate="20230921T094555Z">
+        <seg>N'eus ket eus an teuliad restroù troet !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T080249Z" creationid="Christelle" creationdate="20230609T080249Z">
@@ -2882,8 +2898,8 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       <tuv lang="en">
         <seg>Total:</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230615T153905Z" creationid="Christelle" creationdate="20230615T153905Z">
-        <seg>Hollad:</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094306Z" creationid="Christelle" creationdate="20230615T153905Z">
+        <seg>Hollad :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,8 +3098,8 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       <tuv lang="en">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230919T085241Z" creationid="Christelle" creationdate="20230919T085241Z">
-        <seg>Rannoù dibar a chom:</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094317Z" creationid="Christelle" creationdate="20230919T085241Z">
+        <seg>Rannoù dibar a chom :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,8 +3130,8 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       <tuv lang="en">
         <seg>Unique:</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230919T085257Z" creationid="Christelle" creationdate="20230919T085257Z">
-        <seg>Rannoù dibar:</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T094319Z" creationid="Christelle" creationdate="20230919T085257Z">
+        <seg>Rannoù dibar :</seg>
       </tuv>
     </tu>
     <tu>
