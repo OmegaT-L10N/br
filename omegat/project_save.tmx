@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095455Z" creationid="Christelle" creationdate="20230921T095455Z">
+        <seg>&amp;Klask resis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exported TMs</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151517Z" creationid="Christelle" creationdate="20230511T151517Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T091809Z" creationid="Christelle" creationdate="20230517T091809Z">
         <seg>&amp;Enlakaat ar Genglotadenn pe an Diuzad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095435Z" creationid="Christelle" creationdate="20230921T095435Z">
+        <seg>&amp;Klask gant gerioù-alc'hwez</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,6 +1488,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095322Z" creationid="Christelle" creationdate="20230921T095322Z">
+        <seg>An teuliad a zo anezhañ ha n'eo ket goulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T152932Z" creationid="Christelle" creationdate="20230615T152932Z">
@@ -2000,10 +2024,26 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095249Z" creationid="Christelle" creationdate="20230921T095249Z">
+        <seg>Teuliad raktres OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145736Z" creationid="Christelle" creationdate="20230511T145736Z">
         <seg>OmegaT a zibab an arventenn 'Ya' en un doare emgefreek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095400Z" creationid="Christelle" creationdate="20230921T095400Z">
+        <seg>N'en deus ket OmegaT an aotre lenn ha skrivañ evit an teuliad-mañ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2588,6 +2628,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094004Z" creationid="Christelle" creationdate="20230517T094004Z">
         <seg>Dibab ar genglotadenn #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T095336Z" creationid="Christelle" creationdate="20230921T095336Z">
+        <seg>Dibabit un teuliad all.</seg>
       </tuv>
     </tu>
     <tu>
