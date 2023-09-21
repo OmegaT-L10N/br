@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T093423Z" creationid="Christelle" creationdate="20230921T093423Z">
+        <seg>Enkodañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
 is the language code and YY is the region or country code (optional).</seg>
       </tuv>
