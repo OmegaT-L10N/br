@@ -1240,10 +1240,34 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T093819Z" creationid="Christelle" creationdate="20230921T093819Z">
+        <seg>Fazi en ur seveniñ an urzhiadoù goude-tretañ : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T090741Z" creationid="Christelle" creationdate="20230919T090741Z">
         <seg>Peurgenglotadenn :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T093756Z" creationid="Christelle" creationdate="20230921T093756Z">
+        <seg>O seveniñ an urzhiadoù goude-tretañ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T093945Z" creationid="Christelle" creationdate="20230921T093945Z">
+        <seg>Kod Mont maez : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2108,6 +2132,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T143503Z" creationid="Christelle" creationdate="20230511T143433Z">
         <seg>Diskoulmoù a c'hallfe bezañ :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230921T093838Z" creationid="Christelle" creationdate="20230921T093838Z">
+        <seg>Echuet eo an urzhiadoù goude-tretañ.</seg>
       </tuv>
     </tu>
     <tu>
