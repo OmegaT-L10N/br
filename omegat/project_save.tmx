@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T131005Z" creationid="Christelle" creationdate="20230922T131005Z">
+        <seg>Fellout a ra deoc'h kenderc'hel ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145810Z" creationid="Christelle" creationdate="20230511T145810Z">
@@ -2156,6 +2164,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230921T095827Z" creationid="Christelle" creationdate="20230921T095827Z">
         <seg>Bremañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T131250Z" creationid="Christelle" creationdate="20230922T131250Z">
+        <seg>Niver a rannoù o kenglotañ :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,6 +3632,14 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230921T095223Z" creationid="Christelle" creationdate="20230921T095223Z">
         <seg>N'eo ket reizh an URL e-barzh Linkifier : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130956Z" creationid="Christelle" creationdate="20230922T130956Z">
+        <seg>Emaoc'h o vont da gemmañ {0} rann.</seg>
       </tuv>
     </tu>
     <tu>
