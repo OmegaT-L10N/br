@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134324Z" creationid="Christelle" creationdate="20230922T134324Z">
+        <seg>&amp;Adderaouekaat an arventennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restart</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T151704Z" creationid="Christelle" creationdate="20230511T151704Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T140849Z" creationid="Christelle" creationdate="20230511T140849Z">
         <seg>&amp;Klask</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134244Z" creationid="Christelle" creationdate="20230922T134244Z">
+        <seg>&amp;Klask ar pezh diuzet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1714,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134050Z" creationid="Christelle" creationdate="20230922T134050Z">
+        <seg>Geriaoueg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T082403Z" creationid="Christelle" creationdate="20230920T082403Z">
@@ -2138,6 +2162,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134042Z" creationid="Christelle" creationdate="20230922T134042Z">
+        <seg>Rannoù a genglot : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230922T133842Z" creationid="Christelle" creationdate="20230922T133842Z">
@@ -2230,6 +2262,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T090831Z" creationid="Christelle" creationdate="20230919T090831Z">
         <seg>Kenglotadenn ebet :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134034Z" creationid="Christelle" creationdate="20230922T134034Z">
+        <seg>Disoc'h ebet bet kavet gant an enklask.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3892,6 +3932,14 @@ An enklaskoù resis ha dre gerioù-alc'hwez a gemer e kont ar * hag ar ?.</seg>
       </tuv>
       <tuv lang="br" changeid="Kos Ivantsov" changedate="20230510T103233Z" creationid="Kos Ivantsov" creationdate="20230510T103233Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134101Z" creationid="Christelle" creationdate="20230922T134101Z">
+        <seg>{0} kenglotadenn</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
