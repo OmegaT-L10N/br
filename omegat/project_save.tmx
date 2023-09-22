@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130601Z" creationid="Christelle" creationdate="20230922T130601Z">
+        <seg>&amp;En droidigezh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142843Z" creationid="Christelle" creationdate="20230511T142843Z">
@@ -1174,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130659Z" creationid="Christelle" creationdate="20230922T130659Z">
+        <seg>Diskouez :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082409Z" creationid="Christelle" creationdate="20230609T082409Z">
@@ -1732,6 +1748,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T085448Z" creationid="Christelle" creationdate="20230920T085448Z">
         <seg>En notennoù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130523Z" creationid="Christelle" creationdate="20230922T130523Z">
+        <seg>En or&amp;in</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,6 +3216,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130613Z" creationid="Christelle" creationdate="20230922T130613Z">
+        <seg>Tro&amp;et pe get</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated Files Folder</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T082346Z" creationid="Christelle" creationdate="20230920T082346Z">
@@ -3284,6 +3316,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230922T125807Z" creationid="Christelle" creationdate="20230922T125807Z">
         <seg>Doare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130515Z" creationid="Christelle" creationdate="20230922T130515Z">
+        <seg>N'e&amp;o ket troet</seg>
       </tuv>
     </tu>
     <tu>
