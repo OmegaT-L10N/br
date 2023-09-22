@@ -2794,6 +2794,14 @@ An enklaskoù a sell ouzh ar raktres a-bezh ha furchal a reont dre-ziouer en hol
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T131930Z" creationid="Christelle" creationdate="20230922T131930Z">
+        <seg>An enklaskoù a c'hall bezañ graet hervez un urzhas teuliad resis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T143905Z" creationid="Christelle" creationdate="20230511T143905Z">
@@ -3398,6 +3406,16 @@ An enklaskoù a sell ouzh ar raktres a-bezh ha furchal a reont dre-ziouer en hol
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230922T125807Z" creationid="Christelle" creationdate="20230922T125807Z">
         <seg>Doare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T132151Z" creationid="Christelle" creationdate="20230922T132151Z">
+        <seg>An doareoù :
+An enklaskoù resis a dalv evit hollad ar chadenn arouezennoù klasket.</seg>
       </tuv>
     </tu>
     <tu>
