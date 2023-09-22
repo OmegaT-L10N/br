@@ -1896,6 +1896,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T125012Z" creationid="Christelle" creationdate="20230922T125012Z">
+        <seg>Restr/teuliad lec'hel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local post-processing commands</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T081021Z" creationid="Christelle" creationdate="20230920T081021Z">
@@ -2452,6 +2460,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094815Z" creationid="Christelle" creationdate="20230517T094815Z">
         <seg>Dilem&amp;el an droidigezh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T125153Z" creationid="Christelle" creationdate="20230922T125153Z">
+        <seg>Restr/teuliad a-bell</seg>
       </tuv>
     </tu>
     <tu>
