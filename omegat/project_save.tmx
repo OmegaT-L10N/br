@@ -662,6 +662,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133031Z" creationid="Christelle" creationdate="20230922T133031Z">
+        <seg>'*' a glot gant arouezenn ebet pe meur a hini ('run*' a gloto gant 'run', 'runs', 'running', h. a.)
+'?' a glot a-benn-da-benn gant un arouezenn ('run?' a gloto gant 'runs' ha 'rung', ne gloto ket gant 'run' pe 'running').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- drag and drop files on this pane;
 	- use Project &gt; Add Files...;
 	- use Project &gt; Source Files... and click on Add Files...;
@@ -3651,9 +3661,9 @@ An arventenn e talvoud eo {0}MB;</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230922T132650Z" creationid="Christelle" creationdate="20230922T132650Z">
+      <tuv lang="br" changeid="Christelle" changedate="20230922T132726Z" creationid="Christelle" creationdate="20230922T132650Z">
         <seg>Arouezennoù generek :
-An enklaskoù resis ha dre gerioù-alc'hwez a gemer e kont ar * hag ar ?</seg>
+An enklaskoù resis ha dre gerioù-alc'hwez a gemer e kont ar * hag ar ?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +3786,14 @@ An enklaskoù resis ha dre gerioù-alc'hwez a gemer e kont ar * hag ar ?</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082552Z" creationid="Christelle" creationdate="20230609T082552Z">
         <seg>dianav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T132735Z" creationid="Christelle" creationdate="20230922T132735Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
