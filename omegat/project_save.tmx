@@ -3076,6 +3076,14 @@ An enklaskoù a sell ouzh ar raktres a-bezh ha furchal a reont dre-ziouer en hol
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134718Z" creationid="Christelle" creationdate="20230922T134718Z">
+        <seg>Digarezit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082642Z" creationid="Christelle" creationdate="20230609T082642Z">
@@ -3804,6 +3812,14 @@ An arventenn e talvoud eo {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134745Z" creationid="Christelle" creationdate="20230922T134745Z">
+        <seg>Ne gavomp ket ar bajenn emaoc'h o klask.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
@@ -3860,6 +3876,14 @@ An enklaskoù resis ha dre gerioù-alc'hwez a gemer e kont ar * hag ar ?.</seg>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082741Z" creationid="Christelle" creationdate="20230609T082741Z">
         <seg>Titouroù stadegel resis a c'halloc'h kavout er restr:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134833Z" creationid="Christelle" creationdate="20230922T134833Z">
+        <seg>War ar &lt;a0&gt;bajenn degemer&lt;/a0&gt; e c'hallit mont, ha marteze e kavoc'h an titouroù ho peus ezhomm.</seg>
       </tuv>
     </tu>
     <tu>
