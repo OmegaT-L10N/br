@@ -1952,6 +1952,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130011Z" creationid="Christelle" creationdate="20230922T130011Z">
+        <seg>O mapañ an teuliadoù lec'hel gant teuliadoù a-bell ar mirlec'hioù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Language Checker Issues</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T101355Z" creationid="Christelle" creationdate="20230517T101355Z">
@@ -3236,6 +3244,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T083900Z" creationid="Christelle" creationdate="20230920T083900Z">
         <seg>O klask gant ar restr saveteiñ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T125807Z" creationid="Christelle" creationdate="20230922T125807Z">
+        <seg>Doare</seg>
       </tuv>
     </tu>
     <tu>
