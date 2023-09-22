@@ -34,3 +34,4 @@ tabular data	roadennoù taoliek
 directory	kavlec'h
 Repository	Mirlec'h
 repositories	mirlec'hioù
+Scope	Doug	Portée
