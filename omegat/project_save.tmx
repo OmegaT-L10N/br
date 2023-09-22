@@ -1848,6 +1848,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T132411Z" creationid="Christelle" creationdate="20230922T132411Z">
+        <seg>An enklaskoù dre gerioù-alc'hwez a glask war-lerc'h an holl gerioù-alc'hwez esaouennet, ne vern an urzh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T144944Z" creationid="Christelle" creationdate="20230615T144944Z">
@@ -3636,6 +3644,16 @@ An arventenn e talvoud eo {0}MB;</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T145625Z" creationid="Christelle" creationdate="20230511T145625Z">
         <seg>Diwall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T132650Z" creationid="Christelle" creationdate="20230922T132650Z">
+        <seg>Arouezennoù generek :
+An enklaskoù resis ha dre gerioù-alc'hwez a gemer e kont ar * hag ar ?</seg>
       </tuv>
     </tu>
     <tu>
