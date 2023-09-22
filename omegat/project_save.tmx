@@ -832,10 +832,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133516Z" creationid="Christelle" creationdate="20230922T133516Z">
+        <seg>Goubredañ-emgefreek gant an embanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T082308Z" creationid="Christelle" creationdate="20230920T082308Z">
         <seg>F&amp;urchal...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133624Z" creationid="Christelle" creationdate="20230922T133624Z">
+        <seg>Distreiñ d'ar rann gentañ war-lerc'h ma vije bet serret ar prenestr</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1398,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T090741Z" creationid="Christelle" creationdate="20230919T090741Z">
         <seg>Peurgenglotadenn :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133758Z" creationid="Christelle" creationdate="20230922T133758Z">
+        <seg>Dilezel ar rannoù emzivat</seg>
       </tuv>
     </tu>
     <tu>
