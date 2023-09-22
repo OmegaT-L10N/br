@@ -2274,6 +2274,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134509Z" creationid="Christelle" creationdate="20230922T134509Z">
+        <seg>N'eo ket reizh ar restr XML !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notepad</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095940Z" creationid="Christelle" creationdate="20230517T095940Z">
@@ -3608,6 +3616,14 @@ An enklaskoù resis a dalv evit hollad ar chadenn arouezennoù klasket.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134358Z" creationid="Christelle" creationdate="20230922T134358Z">
+        <seg>Ne c'haller ket kregiñ da lenn ar restr XML !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T083834Z" creationid="Christelle" creationdate="20230920T083834Z">
@@ -3700,6 +3716,14 @@ An enklaskoù resis a dalv evit hollad ar chadenn arouezennoù klasket.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230921T094319Z" creationid="Christelle" creationdate="20230919T085257Z">
         <seg>Rannoù dibar :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134502Z" creationid="Christelle" creationdate="20230922T134502Z">
+        <seg>Ne vez ket kemeret e-karg an handelv XML {0} !</seg>
       </tuv>
     </tu>
     <tu>
