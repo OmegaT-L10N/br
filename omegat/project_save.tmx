@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134002Z" creationid="Christelle" creationdate="20230922T134002Z">
+        <seg>N'eo ket reizh anv an teuliad {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bro&amp;wse...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T082253Z" creationid="Christelle" creationdate="20230920T082253Z">
@@ -996,6 +1004,14 @@
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T082757Z" creationid="Christelle" creationdate="20230609T082757Z">
         <seg>Serr&amp;iñ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134023Z" creationid="Christelle" creationdate="20230922T134023Z">
+        <seg>Serriñ ar prenestr enklask.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1398,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230609T083147Z" creationid="Christelle" creationdate="20230609T083147Z">
         <seg>Kudenn oc'h enrollañ restr ar raktres!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133935Z" creationid="Christelle" creationdate="20230922T133935Z">
+        <seg>Fazi en ur glask e-barzh gwezennadur an teuliadoù !</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2134,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230919T090121Z" creationid="Christelle" creationdate="20230919T090121Z">
         <seg>Stadegoù kenglotañ dre restr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133842Z" creationid="Christelle" creationdate="20230922T133842Z">
+        <seg>Tizhet eo bet an niver uc'hek a zisoc'hoù ({0})</seg>
       </tuv>
     </tu>
     <tu>
