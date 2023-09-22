@@ -3234,6 +3234,14 @@ An enklaskoù a sell ouzh ar raktres a-bezh ha furchal a reont dre-ziouer en hol
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T131852Z" creationid="Christelle" creationdate="20230922T131852Z">
+        <seg>Evit kemmañ an arventennoù e c'hallit askañ pe diaskañ al logoù. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T144535Z" creationid="Christelle" creationdate="20230511T144535Z">
