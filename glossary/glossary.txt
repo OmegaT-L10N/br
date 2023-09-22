@@ -35,3 +35,7 @@ directory	kavlec'h
 Repository	Mirlec'h
 repositories	mirlec'hioù
 Scope	Doug	Portée
+Tick	Askañ	Cocher
+untick	diaskañ	décocher
+settings	arventennoù
+setting	arventenn
