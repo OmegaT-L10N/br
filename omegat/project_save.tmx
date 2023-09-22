@@ -2736,6 +2736,16 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T131603Z" creationid="Christelle" creationdate="20230922T131603Z">
+        <seg>Doug :
+An enklaskoù a sell ouzh ar raktres a-bezh ha furchal a reont dre-ziouer en holl testennoù orin ha pal, ar memorioù treiñ dave, ar geriaouegi, an notennoù hag evezhiadennoù.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T102139Z" creationid="Christelle" creationdate="20230517T102139Z">
