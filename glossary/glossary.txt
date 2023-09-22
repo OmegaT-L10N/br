@@ -41,3 +41,5 @@ settings	arventennoù
 setting	arventenn
 Wildcards	Arouezennoù generek
 Keyword search	Klask dre gerioù-alc'hwez
+Auto-sync	Goubredañ-emgefreek
+orphan segments	rannoù emzivat
