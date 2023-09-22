@@ -2544,6 +2544,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T125407Z" creationid="Christelle" creationdate="20230922T125407Z">
+        <seg>Mirlec'h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T142805Z" creationid="Christelle" creationdate="20230511T142805Z">
