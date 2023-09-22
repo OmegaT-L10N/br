@@ -3796,6 +3796,14 @@ An arventenn e talvoud eo {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T134858Z" creationid="Christelle" creationdate="20230922T134858Z">
+        <seg>Levr an implijer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Version: {0}</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230921T100155Z" creationid="Christelle" creationdate="20230921T100155Z">
