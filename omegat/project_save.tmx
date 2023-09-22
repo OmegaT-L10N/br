@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130740Z" creationid="Christelle" creationdate="20230922T130740Z">
+        <seg>&amp;Restroù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230511T141012Z" creationid="Christelle" creationdate="20230511T141012Z">
@@ -1968,6 +1976,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130717Z" creationid="Christelle" creationdate="20230922T130717Z">
+        <seg>Lec'hiadur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Memor&amp;y</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230921T100044Z" creationid="Christelle" creationdate="20230921T100044Z">
@@ -2372,6 +2388,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T095149Z" creationid="Christelle" creationdate="20230517T095149Z">
         <seg>Notenn a-&amp;raok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130746Z" creationid="Christelle" creationdate="20230922T130746Z">
+        <seg>Rak&amp;tres</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,6 +2816,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130736Z" creationid="Christelle" creationdate="20230922T130736Z">
+        <seg>Dibabit un teul&amp;iad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T093849Z" creationid="Christelle" creationdate="20230517T093849Z">
@@ -3044,6 +3076,22 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230920T085601Z" creationid="Christelle" creationdate="20230920T085601Z">
         <seg>Testenn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130940Z" creationid="Christelle" creationdate="20230922T130940Z">
+        <seg>Adskrivañ testenn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130857Z" creationid="Christelle" creationdate="20230922T130857Z">
+        <seg>Klask testenn</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,10 +3654,18 @@ An arventenn e talvoud eo {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130708Z" creationid="Christelle" creationdate="20230922T130708Z">
+        <seg>an holl rannoù a glot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230921T100116Z" creationid="Christelle" creationdate="20230921T100116Z">
-        <seg>Anvioù restr</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130713Z" creationid="Christelle" creationdate="20230921T100116Z">
+        <seg>anvioù restr</seg>
       </tuv>
     </tu>
     <tu>
