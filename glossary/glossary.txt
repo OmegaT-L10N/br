@@ -39,5 +39,5 @@ Tick	Askañ	Cocher
 untick	diaskañ	décocher
 settings	arventennoù
 setting	arventenn
-Keyword search	Klask gant gerioù-alc'hwez
 Wildcards	Arouezennoù generek
+Keyword search	Klask dre gerioù-alc'hwez
