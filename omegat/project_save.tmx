@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130255Z" creationid="Christelle" creationdate="20230922T130255Z">
+        <seg>Goulo eo URL ar mirlec'h er mapañ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230615T145228Z" creationid="Christelle" creationdate="20230615T145228Z">
@@ -1772,6 +1780,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T092806Z" creationid="Christelle" creationdate="20230517T092806Z">
         <seg>Enlakaat ar valizenn {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130102Z" creationid="Christelle" creationdate="20230922T130102Z">
+        <seg>N'eo ket reizh doare ar mirlec'h : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2572,6 +2588,22 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230922T125407Z" creationid="Christelle" creationdate="20230922T125407Z">
         <seg>Mirlec'h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130139Z" creationid="Christelle" creationdate="20230922T130139Z">
+        <seg>Bout 'zo dija deus ar mirlec'h {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T130210Z" creationid="Christelle" creationdate="20230922T130210Z">
+        <seg>Dianav eo ar mirlec'h {0}</seg>
       </tuv>
     </tu>
     <tu>
