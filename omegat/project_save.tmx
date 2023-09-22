@@ -2392,6 +2392,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T125622Z" creationid="Christelle" creationdate="20230922T125622Z">
+        <seg>O ma&amp;pañ ar mirlec'h...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register I&amp;dentical Translation</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230517T094901Z" creationid="Christelle" creationdate="20230517T094901Z">
@@ -2468,6 +2476,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230922T125153Z" creationid="Christelle" creationdate="20230922T125153Z">
         <seg>Restr/teuliad a-bell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T125426Z" creationid="Christelle" creationdate="20230922T125426Z">
+        <seg>Mirlec'hioù a-bell</seg>
       </tuv>
     </tu>
     <tu>
