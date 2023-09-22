@@ -32,3 +32,4 @@ Overwrite Mode	Mod Flastrañ
 Insert Mode	Mod Enlakaat
 tabular data	roadennoù taoliek
 directory	kavlec'h
+Repository	Mirlec'h
