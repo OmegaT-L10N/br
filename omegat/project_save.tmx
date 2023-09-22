@@ -304,8 +304,8 @@
       <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230921T095435Z" creationid="Christelle" creationdate="20230921T095435Z">
-        <seg>&amp;Klask gant gerioù-alc'hwez</seg>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133244Z" creationid="Christelle" creationdate="20230921T095435Z">
+        <seg>&amp;Klask dre gerioù-alc'hwez</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +1858,14 @@ kod ar yezh ha YY kod ar rannvro pe hini ar vro (diret).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133346Z" creationid="Christelle" creationdate="20230922T133346Z">
+        <seg>Ne c'hall ket bezañ graet enklaskoù dre gerioù-alc'hwez er chadenn enklask.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all space-separated keywords in any order.</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230922T132411Z" creationid="Christelle" creationdate="20230922T132411Z">
@@ -3143,9 +3151,9 @@ An enklaskoù a sell ouzh ar raktres a-bezh ha furchal a reont dre-ziouer en hol
         <seg>Text Replace:
 Replace applies to the target segments of the project.</seg>
       </tuv>
-      <tuv lang="br" changeid="Christelle" changedate="20230922T133140Z" creationid="Christelle" creationdate="20230922T133140Z">
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133256Z" creationid="Christelle" creationdate="20230922T133140Z">
         <seg>Adskrivañ testenn :
-An adskrivañ a dalv evit rannoù pal ar raktres</seg>
+An adskrivañ a dalv evit rannoù pal ar raktres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3608,6 +3616,14 @@ The current setting is {0}MB;</seg>
         <seg>Implijit "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" e-barzh al linenn urzhiañ 
 pe e-barzh skript loc'hañ OmegaT;
 An arventenn e talvoud eo {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133434Z" creationid="Christelle" creationdate="20230922T133434Z">
+        <seg>Implijit $n evit daveiñ ouzh an nvet strollad.</seg>
       </tuv>
     </tu>
     <tu>
