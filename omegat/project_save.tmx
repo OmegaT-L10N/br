@@ -3140,6 +3140,16 @@ An enklaskoù a sell ouzh ar raktres a-bezh ha furchal a reont dre-ziouer en hol
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="br" changeid="Christelle" changedate="20230922T133140Z" creationid="Christelle" creationdate="20230922T133140Z">
+        <seg>Adskrivañ testenn :
+An adskrivañ a dalv evit rannoù pal ar raktres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="br" changeid="Christelle" changedate="20230922T130857Z" creationid="Christelle" creationdate="20230922T130857Z">
